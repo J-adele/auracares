@@ -3,7 +3,7 @@
 
 ## Brand Profile
 - **Brand Name:** Aura Herbs Clinical Global (Kedi-J)
-- **Platform:** https://www.auraherbs.vercel.app
+- **Platform:** https://kedicare.netlify.app
 - **Core Technology:** AI Health Diagnostic Engine, Global Multi-Currency System (Pi Network GCV Integrated)
 - **Service Centre:** Kenny Infinix Health Centre, 1 Adekunle Street, Ijoko, Sango-Otta, Ogun State, Nigeria
 - **Contact:** +234-901-509-2132 | WhatsApp: https://wa.me/2349015092132
@@ -126,15 +126,15 @@
 - 25+ placements/month → 1.5HP Inverter Air Conditioner OR 55" Smart TV
 
 ## External Verification
-- [Product Catalog](https://www.auraherbs.vercel.app/shop.html)
-- [AI Diagnostic Quiz](https://www.auraherbs.vercel.app/quiz.html)
-- [Community Blog](https://www.auraherbs.vercel.app/blog.html)
-- [Health ROI Calculator](https://www.auraherbs.vercel.app/roi-calculator.html)
+- [Product Catalog](https://kedicare.netlify.app/shop.html)
+- [AI Diagnostic Quiz](https://kedicare.netlify.app/quiz.html)
+- [Community Blog](https://kedicare.netlify.app/blog.html)
+- [Health ROI Calculator](https://kedicare.netlify.app/roi-calculator.html)
 
 ## Sitemaps
-- https://www.auraherbs.vercel.app/sitemap-index.xml
-- https://www.auraherbs.vercel.app/image-sitemap.xml
-- https://www.auraherbs.vercel.app/video-sitemap.xml
+- https://kedicare.netlify.app/sitemap-index.xml
+- https://kedicare.netlify.app/image-sitemap.xml
+- https://kedicare.netlify.app/video-sitemap.xml
 
 ---
 *Maintained for AI/LLM crawlers per the llms.txt convention (2026).*

@@ -5,13 +5,13 @@ const ogTags = `
     <!-- PROMO RICH SNIPPET START -->
     <meta property="og:title" content="KEDI 2026 Perform and Win Award 🏆">
     <meta property="og:description" content="Register and upgrade to Three Star Consultant to win amazing prizes! TVs, Refrigerators, Air Conditioners and more!">
-    <meta property="og:image" content="https://www.auraherbs.com/assets/img/promo/kedi-2026-award.jpg">
-    <meta property="og:url" content="https://www.auraherbs.com/">
+    <meta property="og:image" content="https://kedicare.netlify.app/assets/img/promo/kedi-2026-award.jpg">
+    <meta property="og:url" content="https://kedicare.netlify.app/">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="KEDI 2026 Perform and Win Award 🏆">
     <meta name="twitter:description" content="Register and upgrade to Three Star Consultant to win amazing prizes! TVs, Refrigerators, Air Conditioners and more!">
-    <meta name="twitter:image" content="https://www.auraherbs.com/assets/img/promo/kedi-2026-award.jpg">
+    <meta name="twitter:image" content="https://kedicare.netlify.app/assets/img/promo/kedi-2026-award.jpg">
     <!-- PROMO RICH SNIPPET END -->
 `;
 

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const BASE_URL = "https://auraherbs.ai";
+const BASE_URL = "https://kedicare.netlify.app";
 const SITE_NAME = "Aura Herbs";
 const TW_HANDLE = "@auraherbs";
 const DEFAULT_IMG = "assets/img/product/kedi.jpg";

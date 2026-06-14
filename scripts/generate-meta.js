@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const vm = require('vm');
 
-const BASE_URL = 'https://auraherbs.ai';
+const BASE_URL = 'https://kedicare.netlify.app';
 
 // 1. Create a sandbox context to evaluate products.js and combo-data.js
 const sandbox = {

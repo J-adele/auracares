@@ -1099,7 +1099,7 @@ function renderFBResults() {
 }
 
 function shareWAReport(score, name) {
-  const msg = `🩺 *Aura AI Health Report*\nName: ${name}\nRisk Index: ${score}%\n\nGet your free diagnosis at: https://auraherbs.vercel.app/ai-doctor.html`;
+  const msg = `🩺 *Aura AI Health Report*\nName: ${name}\nRisk Index: ${score}%\n\nGet your free diagnosis at: https://kedicare.netlify.app/ai-doctor.html`;
   window.open('https://wa.me/2349015092132?text='+encodeURIComponent(msg),'_blank');
 }
 window.shareWAReport = shareWAReport;
@@ -3457,7 +3457,7 @@ function downloadAIDoctorReport(toolName, resultSummary) {
   txt += (resultSummary || 'No result data available.') + '\n';
   txt += '\n──────────────────────────────────────────────\n';
   txt += ' Powered by Aura Herbs Clinical Engine\n';
-  txt += ' Contact: 0901 509 2132 | auraherbs.vercel.app\n';
+  txt += ' Contact: 0901 509 2132 | kedicare.netlify.app\n';
   txt += '──────────────────────────────────────────────\n';
   const blob = new Blob([txt], { type: 'text/plain;charset=utf-8' });
   const a = document.createElement('a');
