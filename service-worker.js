@@ -3,7 +3,7 @@
    Handles: Background Push Notifications, Offline Cache
    ============================================================ */
 
-const CACHE_NAME = 'kedi-v2';
+const CACHE_NAME = 'kedi-v3';
 const OFFLINE_ASSETS = [
   '/', '/kedi.html', '/home-3.html', '/assets/img/logo/logo.svg',
   '/assets/css/main.css', '/assets/css/kedi-optimise.css'
