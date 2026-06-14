@@ -3,100 +3,100 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/shop-reishi.html</loc>
+    <loc>https://www.auraherbs.netlify.app/shop-reishi.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/Reishi.png</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/Reishi.png</video:thumbnail_loc>
       <video:title>Reishi Immune Guard – Clinical Overview</video:title>
       <video:description>How Reishi boosts immunity and cardiovascular health.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/reishi-immune-guard-%E2%80%93-clinical-overview.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/reishi-immune-guard-%E2%80%93-clinical-overview.mp4</video:content_loc>
       <video:duration>180</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/shop-single.html</loc>
+    <loc>https://www.auraherbs.netlify.app/shop-single.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/farforon.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/farforon.jpg</video:thumbnail_loc>
       <video:title>Faforon Stem Cell Therapy Explained</video:title>
       <video:description>Clinical walkthrough of Faforon stem cell protocol.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/faforon-stem-cell-therapy-explained.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/faforon-stem-cell-therapy-explained.mp4</video:content_loc>
       <video:duration>210</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/shop-golden-six.html</loc>
+    <loc>https://www.auraherbs.netlify.app/shop-golden-six.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/Golden%20six.png</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/Golden%20six.png</video:thumbnail_loc>
       <video:title>Golden Six Hormonal Balance Protocol</video:title>
       <video:description>How Golden Six supports kidney and hormonal balance.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/golden-six-hormonal-balance-protocol.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/golden-six-hormonal-balance-protocol.mp4</video:content_loc>
       <video:duration>195</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/shop-revive.html</loc>
+    <loc>https://www.auraherbs.netlify.app/shop-revive.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/Revive.png</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/Revive.png</video:thumbnail_loc>
       <video:title>Revive Vitality – Male Health Protocol</video:title>
       <video:description>Re-Vive caps for male energy, stamina, and performance.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/revive-vitality-%E2%80%93-male-health-protocol.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/revive-vitality-%E2%80%93-male-health-protocol.mp4</video:content_loc>
       <video:duration>165</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/shop-single.html</loc>
+    <loc>https://www.auraherbs.netlify.app/shop-single.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/Diawell.png</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/Diawell.png</video:thumbnail_loc>
       <video:title>Diawell Glucose Control Clinical Study</video:title>
       <video:description>Diawell natural blood sugar regulation protocol.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/diawell-glucose-control-clinical-study.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/diawell-glucose-control-clinical-study.mp4</video:content_loc>
       <video:duration>240</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/shop-single.html</loc>
+    <loc>https://www.auraherbs.netlify.app/shop-single.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/Magilim.png</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/Magilim.png</video:thumbnail_loc>
       <video:title>Magilim Weight Management Protocol</video:title>
       <video:description>Magilim fat-burning and metabolic reset programme.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/magilim-weight-management-protocol.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/magilim-weight-management-protocol.mp4</video:content_loc>
       <video:duration>180</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 
   <url>
-    <loc>https://www.auraherbs.vercel.app/quiz.html</loc>
+    <loc>https://www.auraherbs.netlify.app/quiz.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.auraherbs.vercel.app/assets/img/product/CELLO%20Q10.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://www.auraherbs.netlify.app/assets/img/product/CELLO%20Q10.jpg</video:thumbnail_loc>
       <video:title>Aura Herbs Full-Body Health Assessment</video:title>
       <video:description>Interactive diagnostic quiz and clinical scoring system.</video:description>
-      <video:content_loc>https://www.auraherbs.vercel.app/assets/video/aura-herbs-full-body-health-assessment.mp4</video:content_loc>
+      <video:content_loc>https://www.auraherbs.netlify.app/assets/video/aura-herbs-full-body-health-assessment.mp4</video:content_loc>
       <video:duration>300</video:duration>
       <video:publication_date>2026-06-12T00:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.auraherbs.vercel.app/about.html">Aura Herbs</video:uploader>
+      <video:uploader info="https://www.auraherbs.netlify.app/about.html">Aura Herbs</video:uploader>
     </video:video>
   </url>
 </urlset>

@@ -539,7 +539,7 @@
                 price: "₦24,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "cardibetter",
@@ -550,7 +550,7 @@
                 price: "₦34,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "v-ca",
@@ -561,7 +561,7 @@
                 price: "₦12,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "7-layer-sanitary-pad",
@@ -572,7 +572,7 @@
                 price: "₦3,240",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "calmazine",
@@ -583,7 +583,7 @@
                 price: "₦24,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "eve-comfort",
@@ -594,7 +594,7 @@
                 price: "₦29,880",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "grapemin-e",
@@ -605,7 +605,7 @@
                 price: "₦33,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "lirich",
@@ -616,7 +616,7 @@
                 price: "₦22,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "mv-women",
@@ -627,7 +627,7 @@
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "multi-vitamin",
@@ -638,7 +638,7 @@
                 price: "₦13,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "prosclick-prostate",
@@ -649,7 +649,7 @@
                 price: "₦35,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "revive-capsule",
@@ -660,7 +660,7 @@
                 price: "₦48,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "salud-herbal",
@@ -671,7 +671,7 @@
                 price: "₦19,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "ultramega",
@@ -682,7 +682,7 @@
                 price: "₦21,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "vitagent",
@@ -693,7 +693,7 @@
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "vitaprego",
@@ -704,7 +704,7 @@
                 price: "₦30,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "beauty-soap",
@@ -715,7 +715,7 @@
                 price: "₦5,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "men-coffee",
@@ -726,7 +726,7 @@
                 price: "₦13,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
 
 

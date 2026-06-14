@@ -60,7 +60,7 @@ a{color:#10B981;text-decoration:none;}.chip{display:inline-block;padding:8px 16p
 // Generate sitemap for SEO pages
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${bank.questions.slice(0,500).map(q=>`  <url><loc>https://www.auraherbs.vercel.app/seo-q/${q.seoSlug}.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>`).join('\n')}
+${bank.questions.slice(0,500).map(q=>`  <url><loc>https://www.auraherbs.netlify.app/seo-q/${q.seoSlug}.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>`).join('\n')}
 </urlset>`;
 fs.writeFileSync('seo-questions-sitemap.xml', sitemap, 'utf8');
 

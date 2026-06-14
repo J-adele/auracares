@@ -27,7 +27,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "How often should I take Small Reishi?",
                     answer: "Typically, Small Reishi is taken once or twice daily, but always refer to the product packaging for precise dosage instructions or consult a healthcare professional."
@@ -44,7 +44,7 @@
                 price: "₦37,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "How often should I take Reishi?",
                     answer: "Typically, Reishi is taken once or twice daily, but always refer to the product packaging for precise dosage instructions or consult a healthcare professional."
@@ -61,7 +61,7 @@
                 price: "₦17,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "What are the main benefits of Packet Re-Vive?",
                     answer: "Packet Re-Vive primarily enhances male sexual function, increases libido, and improves overall vitality."
@@ -78,7 +78,7 @@
                 price: "₦48,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "What are the main benefits of Re-Vive?",
                     answer: "Re-Vive primarily enhances male sexual function, increases libido, and improves overall vitality."
@@ -95,7 +95,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "cordy-active",
@@ -106,7 +106,7 @@
                 price: "₦25,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-cordy-royal-jelly",
@@ -117,7 +117,7 @@
                 price: "₦14,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "cordy-royal-jelly",
@@ -128,7 +128,7 @@
                 price: "₦37,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-golden-hypha",
@@ -139,7 +139,7 @@
                 price: "₦20,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "golden-hypha",
@@ -150,7 +150,7 @@
                 price: "₦51,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "p13",
@@ -161,7 +161,7 @@
                 price: "₦6,500,000",
                 type: "Medical Devices",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "What makes the VIP Massage Chair different from regular chairs?",
                     answer: "It is a clinical-grade device featuring zero-gravity positioning, therapeutic infrared heating, and AI body scanning to deliver precise, systemic recovery."
@@ -175,7 +175,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "diawell",
@@ -186,7 +186,7 @@
                 price: "₦18,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "Can Diawell replace my diabetes medication?",
                     answer: "No, Diawell is a supplement and should not replace prescribed diabetes medication. Always consult your doctor before making any changes to your medication."
@@ -200,7 +200,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "golden-six",
@@ -211,7 +211,7 @@
                 price: "₦16,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "cello-q10",
@@ -222,7 +222,7 @@
                 price: "₦36,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "lycovite",
@@ -233,7 +233,7 @@
                 price: "₦26,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-magilim",
@@ -244,7 +244,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "magilim",
@@ -255,7 +255,7 @@
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-jointeez",
@@ -266,7 +266,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "jointeez",
@@ -277,7 +277,7 @@
                 price: "₦16,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-memory-24-7",
@@ -288,7 +288,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "memory-24-7-capsule",
@@ -299,7 +299,7 @@
                 price: "₦33,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-eye-beta",
@@ -310,7 +310,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "eye-beta-capsule",
@@ -321,7 +321,7 @@
                 price: "₦27,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-gastrifort",
@@ -332,7 +332,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "gastrifort-capsule",
@@ -343,7 +343,7 @@
                 price: "₦44,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-constilease",
@@ -354,7 +354,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "constilease",
@@ -365,7 +365,7 @@
                 price: "₦28,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-vigor-essential",
@@ -376,7 +376,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "vigor-essential",
@@ -387,7 +387,7 @@
                 price: "₦25,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "small-gynapharm",
@@ -398,7 +398,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "gynapharm-capsule",
@@ -409,7 +409,7 @@
                 price: "₦39,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "qinghao",
@@ -420,7 +420,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "reishi-blood-tonic",
@@ -431,7 +431,7 @@
                 price: "₦19,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "hydrogen-cup",
@@ -442,7 +442,7 @@
                 price: "₦75,000",
                 type: "Devices",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: [{
                     question: "What are the benefits of hydrogen water?",
                     answer: "Hydrogen water is believed to have antioxidant properties, reduce inflammation, and improve cellular health."
@@ -459,7 +459,7 @@
                 price: "₦5,500",
                 type: "Soaps",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app//blog/sulphur-anti-acne-soap",
+                blogLink: "https://what-is-your-health-challenge.netlify.app//blog/sulphur-anti-acne-soap",
                 qna: [{
                     question: "How does Sulphur Anti-Acne Soap work?",
                     answer: "Sulfur helps to dry out the skin, remove dead skin cells, and has antibacterial properties that can reduce acne breakouts."
@@ -473,7 +473,7 @@
                 price: "₦5,500",
                 type: "Soaps",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "nano-silver-antibacterial-soap",
@@ -484,7 +484,7 @@
                 price: "₦5,500",
                 type: "Soaps",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "gum-care-toothpaste",
@@ -495,7 +495,7 @@
                 price: "₦7,200",
                 type: "Oral Care",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "colon-cleanse",
@@ -506,7 +506,7 @@
                 price: "₦19,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "kedi-coffee",
@@ -517,7 +517,7 @@
                 price: "₦30,000",
                 type: "Beverages",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "blood-circulatory-massager",
@@ -528,7 +528,7 @@
                 price: "₦624,000",
                 type: "Devices",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "haemocare",
@@ -539,7 +539,7 @@
                 price: "₦24,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.vercel.app/",
+                blogLink: "https://what-is-your-health-challenge.netlify.app/",
                 qna: []
             }, {
                 id: "cardibetter",
@@ -550,7 +550,7 @@
                 price: "₦34,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "v-ca",
@@ -561,7 +561,7 @@
                 price: "₦12,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "7-layer-sanitary-pad",
@@ -572,7 +572,7 @@
                 price: "₦3,240",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "calmazine",
@@ -583,7 +583,7 @@
                 price: "₦24,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "eve-comfort",
@@ -594,7 +594,7 @@
                 price: "₦29,880",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "grapemin-e",
@@ -605,7 +605,7 @@
                 price: "₦33,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "lirich",
@@ -616,7 +616,7 @@
                 price: "₦22,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "mv-women",
@@ -627,7 +627,7 @@
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "multi-vitamin",
@@ -638,7 +638,7 @@
                 price: "₦13,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "prosclick-prostate",
@@ -649,7 +649,7 @@
                 price: "₦35,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "revive-capsule",
@@ -660,7 +660,7 @@
                 price: "₦48,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "salud-herbal",
@@ -671,7 +671,7 @@
                 price: "₦19,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "ultramega",
@@ -682,7 +682,7 @@
                 price: "₦21,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "vitagent",
@@ -693,7 +693,7 @@
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "vitaprego",
@@ -704,7 +704,7 @@
                 price: "₦30,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "beauty-soap",
@@ -715,7 +715,7 @@
                 price: "₦5,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "men-coffee",
@@ -726,7 +726,7 @@
                 price: "₦13,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.vercel.app/shop.html",
+                blogLink: "https://www.auraherbs.netlify.app/shop.html",
                 qna: []
 
 

@@ -1,0 +1,239 @@
+
+<main style="background-color: #f8fafc;">
+    <!-- Product Hero Section -->
+    <section class="product-hero" style="padding: 120px 0 60px; background: linear-gradient(135deg, #064e3b 0%, #10b981 100%); position: relative; overflow: hidden;">
+        <div class="container relative z-10">
+            <div class="row align-items-center">
+                <div class="col-lg-6 mb-5 mb-lg-0 text-white">
+                    <span class="badge" style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 30px; font-weight: bold; letter-spacing: 1px; margin-bottom: 20px; display: inline-block;">
+                        Prostate & Cellular Health
+                    </span>
+                    <h1 style="color: white; font-size: clamp(2.5rem, 5vw, 3.5rem); font-weight: 800; margin-bottom: 15px; line-height: 1.2;">
+                        Kedi Lycovite
+                    </h1>
+                    <h3 style="color: #a7f3d0; font-size: 1.5rem; font-weight: 400; margin-bottom: 30px;">
+                        Lycopene Powerhouse
+                    </h3>
+                    
+                    <div class="product-rating" style="display: flex; align-items: center; margin-bottom: 30px; background: rgba(0,0,0,0.2); display: inline-flex; padding: 10px 20px; border-radius: 50px;">
+                        <div class="stars" style="color: #fbbf24; font-size: 1.2rem; margin-right: 10px;">
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <span style="font-weight: 600;">4.9 / 5.0</span>
+                        <span style="margin-left: 10px; opacity: 0.8;">(2,750 verified reviews)</span>
+                    </div>
+
+                    <p style="font-size: 1.1rem; line-height: 1.8; opacity: 0.9; margin-bottom: 40px; max-width: 500px;">
+                        High concentration of lycopene to support prostate health and provide strong antioxidant protection.
+                    </p>
+
+                    <div class="price-action-box" style="background: white; padding: 25px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.2); display: inline-block;">
+                        <div style="display: flex; align-items: flex-end; margin-bottom: 20px;">
+                            <span style="font-size: 2.5rem; font-weight: 800; color: #064e3b; line-height: 1;">₦26,000</span>
+                            <span style="font-size: 1.2rem; text-decoration: line-through; color: #94a3b8; margin-left: 15px; margin-bottom: 5px;">₦31,000</span>
+                        </div>
+                        <button class="add-to-cart-btn" onclick="addToCart('lycovite', 'Kedi Lycovite', 26000, 'assets/img/product/Lycovite.png')" style="background: #10b981; color: white; border: none; padding: 15px 40px; border-radius: 50px; font-weight: bold; font-size: 1.1rem; cursor: pointer; transition: all 0.3s ease; width: 100%; display: flex; align-items: center; justify-content: center; gap: 10px;">
+                            <i class="fas fa-shopping-cart"></i> Add to Cart Now
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="col-lg-6 text-center">
+                    <div class="product-image-wrapper" style="position: relative;">
+                        <!-- Glow effect -->
+                        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 400px; height: 400px; background: radial-gradient(circle, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0) 70%); border-radius: 50%; z-index: 1;"></div>
+                        <!-- Speed Opt: Fetchpriority & Eager loading for LCP image -->
+                        <img src="assets/img/product/Lycovite.png" alt="Kedi Lycovite" fetchpriority="high" loading="eager" style="max-width: 100%; height: auto; position: relative; z-index: 2; filter: drop-shadow(0 30px 40px rgba(0,0,0,0.4)); animation: float 6s ease-in-out infinite;" onerror="this.src='assets/img/product/default.png';">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Decorative shapes -->
+        <div style="position: absolute; bottom: -50px; left: 0; width: 100%; height: 100px; background: #f8fafc; transform: skewY(-2deg); z-index: 5;"></div>
+    </section>
+
+    <!-- Key Benefits & Community Buzz -->
+    <section class="benefits-buzz-area pt-100 pb-80">
+        <div class="container">
+            <div class="row">
+                <!-- Left: Benefits -->
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <div class="sec-title mb-40">
+                        <h2 class="title" style="color: #064e3b; font-weight: 800;">Clinical Benefits</h2>
+                        <p>Why Kedi Lycovite is prescribed by top practitioners.</p>
+                    </div>
+                    <div class="benefits-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+                        
+                            <div class="benefit-card" style="background: white; padding: 25px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-left: 4px solid #10b981; transition: transform 0.3s ease;">
+                                <div style="color: #10b981; font-size: 24px; margin-bottom: 15px;"><i class="fas fa-check-circle"></i></div>
+                                <h4 style="font-size: 1.1rem; font-weight: 700; color: #1e293b; margin: 0;">Supports Prostate Health</h4>
+                            </div>
+                        
+                            <div class="benefit-card" style="background: white; padding: 25px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-left: 4px solid #10b981; transition: transform 0.3s ease;">
+                                <div style="color: #10b981; font-size: 24px; margin-bottom: 15px;"><i class="fas fa-check-circle"></i></div>
+                                <h4 style="font-size: 1.1rem; font-weight: 700; color: #1e293b; margin: 0;">Potent Antioxidant</h4>
+                            </div>
+                        
+                            <div class="benefit-card" style="background: white; padding: 25px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-left: 4px solid #10b981; transition: transform 0.3s ease;">
+                                <div style="color: #10b981; font-size: 24px; margin-bottom: 15px;"><i class="fas fa-check-circle"></i></div>
+                                <h4 style="font-size: 1.1rem; font-weight: 700; color: #1e293b; margin: 0;">Protects DNA</h4>
+                            </div>
+                        
+                            <div class="benefit-card" style="background: white; padding: 25px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-left: 4px solid #10b981; transition: transform 0.3s ease;">
+                                <div style="color: #10b981; font-size: 24px; margin-bottom: 15px;"><i class="fas fa-check-circle"></i></div>
+                                <h4 style="font-size: 1.1rem; font-weight: 700; color: #1e293b; margin: 0;">Anti-tumor properties</h4>
+                            </div>
+                        
+                    </div>
+                </div>
+
+                <!-- Right: Community Buzz -->
+                <div class="col-lg-6">
+                    <div class="sec-title mb-40 pl-lg-5">
+                        <h2 class="title" style="color: #064e3b; font-weight: 800;">Community Buzz <i class="fas fa-fire" style="color: #f97316;"></i></h2>
+                        <p>Real results from the Kedi Healthcare (Kedi-J) community.</p>
+                    </div>
+                    <div class="buzz-container pl-lg-5">
+                        
+                            <div class="buzz-card mb-4" style="background: white; padding: 30px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.06); position: relative;">
+                                <i class="fas fa-quote-left" style="position: absolute; top: 20px; right: 30px; font-size: 40px; color: #f1f5f9; z-index: 1;"></i>
+                                <div style="position: relative; z-index: 2;">
+                                    <div class="stars mb-2" style="color: #fbbf24; font-size: 0.9rem;">
+                                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                                    </div>
+                                    <p style="font-size: 1.1rem; color: #475569; font-style: italic; margin-bottom: 15px;">"Urinary flow improved vastly."</p>
+                                    <div class="user-info" style="display: flex; align-items: center;">
+                                        <div style="width: 40px; height: 40px; background: #e2e8f0; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #64748b; margin-right: 15px;">
+                                            E
+                                        </div>
+                                        <h5 style="margin: 0; font-size: 1rem; font-weight: 700; color: #0f172a;">Elder Joseph</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                            <div class="buzz-card mb-4" style="background: white; padding: 30px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.06); position: relative;">
+                                <i class="fas fa-quote-left" style="position: absolute; top: 20px; right: 30px; font-size: 40px; color: #f1f5f9; z-index: 1;"></i>
+                                <div style="position: relative; z-index: 2;">
+                                    <div class="stars mb-2" style="color: #fbbf24; font-size: 0.9rem;">
+                                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                                    </div>
+                                    <p style="font-size: 1.1rem; color: #475569; font-style: italic; margin-bottom: 15px;">"Excellent adjunct for BPH."</p>
+                                    <div class="user-info" style="display: flex; align-items: center;">
+                                        <div style="width: 40px; height: 40px; background: #e2e8f0; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #64748b; margin-right: 15px;">
+                                            U
+                                        </div>
+                                        <h5 style="margin: 0; font-size: 1rem; font-weight: 700; color: #0f172a;">Urology Clinic</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        
+                        <div class="text-center mt-4">
+                            <span style="display: inline-block; background: #ecfdf5; color: #059669; padding: 8px 16px; border-radius: 30px; font-weight: 600; font-size: 0.9rem;">
+                                <i class="fas fa-users mr-2"></i> Join 2,750 others thriving today
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Upsell Logic Engine -->
+    <section class="upsell-area pt-80 pb-100" style="background: white; border-top: 1px solid #f1f5f9;">
+        <div class="container">
+            <div class="sec-title text-center mb-50">
+                <span class="sub-title">CLINICAL PROTOCOL</span>
+                <h2 class="title" style="font-weight: 800; color: #0f172a;">Frequently Prescribed Together</h2>
+                <p>Maximize your results by combining Kedi Lycovite with these highly complementary formulas.</p>
+            </div>
+            <div class="row">
+                
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="upsell-card" style="border: 1px solid #e2e8f0; border-radius: 20px; overflow: hidden; padding: 30px; text-align: center; transition: all 0.3s ease; height: 100%;">
+                        <a href="product-colon-cleanser.html">
+                            <img src="assets/img/product/Colon cleanser tea.png" alt="Kedi Colon Cleanser Tea" loading="lazy" style="height: 180px; object-fit: contain; margin-bottom: 20px; transition: transform 0.3s ease;">
+                        </a>
+                        <span class="badge" style="background: #ecfdf5; color: #10b981; padding: 5px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; margin-bottom: 15px; display: inline-block;">Detoxification</span>
+                        <h3 style="font-size: 1.25rem; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+                            <a href="product-colon-cleanser.html" style="color: inherit;">Kedi Colon Cleanser Tea</a>
+                        </h3>
+                        <div class="price mb-4" style="font-weight: 800; color: #064e3b; font-size: 1.2rem;">₦18,000</div>
+                        <button onclick="addToCart('colon-cleanser', 'Kedi Colon Cleanser Tea', 18000, 'assets/img/product/Colon cleanser tea.png')" style="background: white; color: #10b981; border: 2px solid #10b981; padding: 10px 20px; border-radius: 30px; font-weight: 700; width: 100%; cursor: pointer; transition: all 0.3s ease;" onmouseover="this.style.background='#10b981'; this.style.color='white';" onmouseout="this.style.background='white'; this.style.color='#10b981';">
+                            <i class="fas fa-plus"></i> Add to Protocol
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="upsell-card" style="border: 1px solid #e2e8f0; border-radius: 20px; overflow: hidden; padding: 30px; text-align: center; transition: all 0.3s ease; height: 100%;">
+                        <a href="product-golden-hypha.html">
+                            <img src="assets/img/product/Golden hypha.png" alt="Kedi Golden Hypha" loading="lazy" style="height: 180px; object-fit: contain; margin-bottom: 20px; transition: transform 0.3s ease;">
+                        </a>
+                        <span class="badge" style="background: #ecfdf5; color: #10b981; padding: 5px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; margin-bottom: 15px; display: inline-block;">Immunity Boost</span>
+                        <h3 style="font-size: 1.25rem; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+                            <a href="product-golden-hypha.html" style="color: inherit;">Kedi Golden Hypha</a>
+                        </h3>
+                        <div class="price mb-4" style="font-weight: 800; color: #064e3b; font-size: 1.2rem;">₦42,000</div>
+                        <button onclick="addToCart('golden-hypha', 'Kedi Golden Hypha', 42000, 'assets/img/product/Golden hypha.png')" style="background: white; color: #10b981; border: 2px solid #10b981; padding: 10px 20px; border-radius: 30px; font-weight: 700; width: 100%; cursor: pointer; transition: all 0.3s ease;" onmouseover="this.style.background='#10b981'; this.style.color='white';" onmouseout="this.style.background='white'; this.style.color='#10b981';">
+                            <i class="fas fa-plus"></i> Add to Protocol
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="upsell-card" style="border: 1px solid #e2e8f0; border-radius: 20px; overflow: hidden; padding: 30px; text-align: center; transition: all 0.3s ease; height: 100%;">
+                        <a href="product-vigor-essential.html">
+                            <img src="assets/img/product/Vigor essential.png" alt="Kedi Vigor Essential" loading="lazy" style="height: 180px; object-fit: contain; margin-bottom: 20px; transition: transform 0.3s ease;">
+                        </a>
+                        <span class="badge" style="background: #ecfdf5; color: #10b981; padding: 5px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; margin-bottom: 15px; display: inline-block;">Immunity Boost</span>
+                        <h3 style="font-size: 1.25rem; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+                            <a href="product-vigor-essential.html" style="color: inherit;">Kedi Vigor Essential</a>
+                        </h3>
+                        <div class="price mb-4" style="font-weight: 800; color: #064e3b; font-size: 1.2rem;">₦28,000</div>
+                        <button onclick="addToCart('vigor-essential', 'Kedi Vigor Essential', 28000, 'assets/img/product/Vigor essential.png')" style="background: white; color: #10b981; border: 2px solid #10b981; padding: 10px 20px; border-radius: 30px; font-weight: 700; width: 100%; cursor: pointer; transition: all 0.3s ease;" onmouseover="this.style.background='#10b981'; this.style.color='white';" onmouseout="this.style.background='white'; this.style.color='#10b981';">
+                            <i class="fas fa-plus"></i> Add to Protocol
+                        </button>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- Global Floating Add to Cart (Appears on scroll) -->
+    <div class="sticky-cart-bar" style="position: fixed; bottom: 0; left: 0; width: 100%; background: white; padding: 15px 0; box-shadow: 0 -10px 30px rgba(0,0,0,0.1); z-index: 999; transform: translateY(100%); transition: transform 0.3s ease;">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-auto d-flex align-items-center">
+                    <img src="assets/img/product/Lycovite.png" alt="" style="width: 50px; height: 50px; object-fit: contain; margin-right: 15px;">
+                    <div>
+                        <h4 style="margin: 0; font-size: 1.1rem; font-weight: 700; color: #0f172a;">Kedi Lycovite</h4>
+                        <span style="color: #064e3b; font-weight: 800;">₦26,000</span>
+                    </div>
+                </div>
+                <div class="col-auto">
+                    <button onclick="addToCart('lycovite', 'Kedi Lycovite', 26000, 'assets/img/product/Lycovite.png')" style="background: #10b981; color: white; border: none; padding: 10px 30px; border-radius: 50px; font-weight: bold; cursor: pointer; display: flex; align-items: center; gap: 10px;">
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-15px); } 100% { transform: translateY(0px); } }
+        .benefit-card:hover { transform: translateY(-5px) !important; box-shadow: 0 15px 30px rgba(16, 185, 129, 0.1) !important; }
+        .upsell-card:hover { border-color: #10b981; box-shadow: 0 20px 40px rgba(0,0,0,0.05); }
+        .upsell-card a img:hover { transform: scale(1.05); }
+    </style>
+    <script>
+        window.addEventListener('scroll', function() {
+            var stickyBar = document.querySelector('.sticky-cart-bar');
+            if(window.scrollY > 400) { stickyBar.style.transform = 'translateY(0)'; } 
+            else { stickyBar.style.transform = 'translateY(100%)'; }
+        }, {passive: true});
+    </script>
+</main>
+    

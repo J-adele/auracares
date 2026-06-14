@@ -3,8 +3,8 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Aura Herbs",
-    "url": "https://www.auraherbs.vercel.app",
-    "logo": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg",
+    "url": "https://www.auraherbs.netlify.app",
+    "logo": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg",
     "sameAs": [
       "https://www.facebook.com/auraherbs",
       "https://twitter.com/auraherbs"
@@ -21,10 +21,10 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Aura Herbs",
-    "url": "https://www.auraherbs.vercel.app",
+    "url": "https://www.auraherbs.netlify.app",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://www.auraherbs.vercel.app/shop.html?q={search_term_string}",
+      "target": "https://www.auraherbs.netlify.app/shop.html?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   },
@@ -40,7 +40,7 @@
       "addressCountry": "NG"
     },
     "telephone": "+234-901-509-2132",
-    "url": "https://www.auraherbs.vercel.app/kedicenter.html",
+    "url": "https://www.auraherbs.netlify.app/kedicenter.html",
     "openingHours": "Mo-Fr 08:00-18:00",
     "priceRange": "₦₦"
   },
@@ -49,14 +49,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Reishi Immune Guard",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Reishi.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Reishi.png",
       "description": "Clinical herbal protocol: Reishi Immune Guard – Immunity. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Immunity",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -77,14 +77,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Revive Vitality Protocol",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Revive.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Revive.png",
       "description": "Clinical herbal protocol: Revive Vitality Protocol – Male Vitality. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Male Vitality",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -105,14 +105,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Golden Six Kidney Health",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Golden-Six.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Golden-Six.png",
       "description": "Clinical herbal protocol: Golden Six Kidney Health – Kidney & Hormonal. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Kidney & Hormonal",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -133,14 +133,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Cardibetter Heart Care",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Cardibetter.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Cardibetter.png",
       "description": "Clinical herbal protocol: Cardibetter Heart Care – Cardiovascular. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Cardiovascular",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -161,14 +161,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Magilim Detox System",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Magilim.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Magilim.png",
       "description": "Clinical herbal protocol: Magilim Detox System – Weight Management. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Weight Management",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -189,14 +189,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Constilease Digestive Aid",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Constilease.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Constilease.png",
       "description": "Clinical herbal protocol: Constilease Digestive Aid – Digestive Health. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Digestive Health",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -217,14 +217,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Colon Cleansing Tea",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/colon-tea-cleanser.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/colon-tea-cleanser.png",
       "description": "Clinical herbal protocol: Colon Cleansing Tea – Cellular Detox. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Cellular Detox",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -245,14 +245,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Salud Stem Cell Therapy",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Salud.jpg",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Salud.jpg",
       "description": "Clinical herbal protocol: Salud Stem Cell Therapy – Stem Cell. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Stem Cell",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -273,14 +273,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Lycovite Clinical Protocol",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/LYCOVITE.jpg",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/LYCOVITE.jpg",
       "description": "Clinical herbal protocol: Lycovite Clinical Protocol – Male Health. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Male Health",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -301,14 +301,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Vitamin C 1000mg Protocol",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Vitamin-C.jpg",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Vitamin-C.jpg",
       "description": "Clinical herbal protocol: Vitamin C 1000mg Protocol – Immune Support. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Immune Support",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -329,14 +329,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Gastrifort Gastro Care",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Gastrifort.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Gastrifort.png",
       "description": "Clinical herbal protocol: Gastrifort Gastro Care – Gastric Health. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Gastric Health",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -357,14 +357,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Cello Q10 Heart Support",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Cello-Q10.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Cello-Q10.png",
       "description": "Clinical herbal protocol: Cello Q10 Heart Support – Cardio. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Cardio",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -385,14 +385,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Jointeez Bone & Joint",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Jointeez.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Jointeez.png",
       "description": "Clinical herbal protocol: Jointeez Bone & Joint – Bone & Joint. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Bone & Joint",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -413,14 +413,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Diawell Glucose Balance",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Diawell.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Diawell.png",
       "description": "Clinical herbal protocol: Diawell Glucose Balance – Blood Sugar. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Blood Sugar",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -441,14 +441,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Garlat Garlic Oil",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Garlat.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Garlat.png",
       "description": "Clinical herbal protocol: Garlat Garlic Oil – Immunity. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Immunity",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -469,14 +469,14 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Spidex 12 Immunity",
-      "image": "https://www.auraherbs.vercel.app/assets/img/product/Spidex12.png",
+      "image": "https://www.auraherbs.netlify.app/assets/img/product/Spidex12.png",
       "description": "Clinical herbal protocol: Spidex 12 Immunity – Immunity. Available at Aura Herbs.",
       "brand": {
         "@type": "Brand",
         "name": "Aura Herbs"
       },
       "category": "Immunity",
-      "url": "https://www.auraherbs.vercel.app/shop-single.html",
+      "url": "https://www.auraherbs.netlify.app/shop-single.html",
       "offers": {
         "@type": "Offer",
         "priceCurrency": "PI",
@@ -500,17 +500,17 @@
       "@type": "VideoObject",
       "name": "Reishi Immune Guard – Clinical Overview",
       "description": "How Reishi boosts immunity and cardiovascular health.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/Reishi.png",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/Reishi.png",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT180S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/reishi-immune-guard-–-clinical-overview.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/shop-reishi.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/reishi-immune-guard-–-clinical-overview.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/shop-reishi.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     },
@@ -519,17 +519,17 @@
       "@type": "VideoObject",
       "name": "Faforon Stem Cell Therapy Explained",
       "description": "Clinical walkthrough of Faforon stem cell protocol.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/farforon.jpg",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/farforon.jpg",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT210S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/faforon-stem-cell-therapy-explained.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/shop-single.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/faforon-stem-cell-therapy-explained.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/shop-single.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     },
@@ -538,17 +538,17 @@
       "@type": "VideoObject",
       "name": "Golden Six Hormonal Balance Protocol",
       "description": "How Golden Six supports kidney and hormonal balance.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/Golden six.png",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/Golden six.png",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT195S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/golden-six-hormonal-balance-protocol.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/shop-golden-six.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/golden-six-hormonal-balance-protocol.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/shop-golden-six.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     },
@@ -557,17 +557,17 @@
       "@type": "VideoObject",
       "name": "Revive Vitality – Male Health Protocol",
       "description": "Re-Vive caps for male energy, stamina, and performance.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/Revive.png",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/Revive.png",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT165S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/revive-vitality-–-male-health-protocol.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/shop-revive.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/revive-vitality-–-male-health-protocol.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/shop-revive.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     },
@@ -576,17 +576,17 @@
       "@type": "VideoObject",
       "name": "Diawell Glucose Control Clinical Study",
       "description": "Diawell natural blood sugar regulation protocol.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/Diawell.png",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/Diawell.png",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT240S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/diawell-glucose-control-clinical-study.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/shop-single.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/diawell-glucose-control-clinical-study.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/shop-single.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     },
@@ -595,17 +595,17 @@
       "@type": "VideoObject",
       "name": "Magilim Weight Management Protocol",
       "description": "Magilim fat-burning and metabolic reset programme.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/Magilim.png",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/Magilim.png",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT180S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/magilim-weight-management-protocol.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/shop-single.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/magilim-weight-management-protocol.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/shop-single.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     },
@@ -614,17 +614,17 @@
       "@type": "VideoObject",
       "name": "Aura Herbs Full-Body Health Assessment",
       "description": "Interactive diagnostic quiz and clinical scoring system.",
-      "thumbnailUrl": "https://www.auraherbs.vercel.app/assets/img/product/CELLO Q10.jpg",
+      "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/CELLO Q10.jpg",
       "uploadDate": "2026-06-12T00:00:00+00:00",
       "duration": "PT300S",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/video/aura-herbs-full-body-health-assessment.mp4",
-      "embedUrl": "https://www.auraherbs.vercel.app/quiz.html",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/video/aura-herbs-full-body-health-assessment.mp4",
+      "embedUrl": "https://www.auraherbs.netlify.app/quiz.html",
       "publisher": {
         "@type": "Organization",
         "name": "Aura Herbs",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.auraherbs.vercel.app/assets/img/logo/logo.svg"
+          "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
         }
       }
     }
@@ -633,210 +633,210 @@
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Reishi.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Reishi.png",
       "name": "Reishi Immune Guard",
       "description": "Clinical protocol image: Reishi Immune Guard – Immunity",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Revive.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Revive.png",
       "name": "Revive Vitality Protocol",
       "description": "Clinical protocol image: Revive Vitality Protocol – Male Vitality",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Golden-Six.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Golden-Six.png",
       "name": "Golden Six Kidney Health",
       "description": "Clinical protocol image: Golden Six Kidney Health – Kidney & Hormonal",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Cardibetter.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Cardibetter.png",
       "name": "Cardibetter Heart Care",
       "description": "Clinical protocol image: Cardibetter Heart Care – Cardiovascular",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Magilim.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Magilim.png",
       "name": "Magilim Detox System",
       "description": "Clinical protocol image: Magilim Detox System – Weight Management",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Constilease.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Constilease.png",
       "name": "Constilease Digestive Aid",
       "description": "Clinical protocol image: Constilease Digestive Aid – Digestive Health",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/colon-tea-cleanser.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/colon-tea-cleanser.png",
       "name": "Colon Cleansing Tea",
       "description": "Clinical protocol image: Colon Cleansing Tea – Cellular Detox",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Salud.jpg",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Salud.jpg",
       "name": "Salud Stem Cell Therapy",
       "description": "Clinical protocol image: Salud Stem Cell Therapy – Stem Cell",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/LYCOVITE.jpg",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/LYCOVITE.jpg",
       "name": "Lycovite Clinical Protocol",
       "description": "Clinical protocol image: Lycovite Clinical Protocol – Male Health",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Vitamin-C.jpg",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Vitamin-C.jpg",
       "name": "Vitamin C 1000mg Protocol",
       "description": "Clinical protocol image: Vitamin C 1000mg Protocol – Immune Support",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Gastrifort.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Gastrifort.png",
       "name": "Gastrifort Gastro Care",
       "description": "Clinical protocol image: Gastrifort Gastro Care – Gastric Health",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Cello-Q10.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Cello-Q10.png",
       "name": "Cello Q10 Heart Support",
       "description": "Clinical protocol image: Cello Q10 Heart Support – Cardio",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Jointeez.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Jointeez.png",
       "name": "Jointeez Bone & Joint",
       "description": "Clinical protocol image: Jointeez Bone & Joint – Bone & Joint",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Diawell.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Diawell.png",
       "name": "Diawell Glucose Balance",
       "description": "Clinical protocol image: Diawell Glucose Balance – Blood Sugar",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Garlat.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Garlat.png",
       "name": "Garlat Garlic Oil",
       "description": "Clinical protocol image: Garlat Garlic Oil – Immunity",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     },
     {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "https://www.auraherbs.vercel.app/assets/img/product/Spidex12.png",
+      "contentUrl": "https://www.auraherbs.netlify.app/assets/img/product/Spidex12.png",
       "name": "Spidex 12 Immunity",
       "description": "Clinical protocol image: Spidex 12 Immunity – Immunity",
       "author": {
         "@type": "Organization",
         "name": "Aura Herbs"
       },
-      "license": "https://www.auraherbs.vercel.app/about.html",
-      "acquireLicensePage": "https://www.auraherbs.vercel.app/about.html"
+      "license": "https://www.auraherbs.netlify.app/about.html",
+      "acquireLicensePage": "https://www.auraherbs.netlify.app/about.html"
     }
   ]
 }

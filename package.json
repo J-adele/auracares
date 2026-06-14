@@ -1,0 +1,18 @@
+{
+  "name": "auracares",
+  "version": "1.0.0",
+  "description": "Kedi Healthcare Clinical Platform",
+  "main": "index.html",
+  "scripts": {
+    "build:qbank": "node scripts/build_qbank.js",
+    "build:ai-doctor": "node scripts/build_ai_doctor.js",
+    "build:seo": "node scripts/build_seo_pages.js",
+    "build:products": "node scripts/rebuild_all_products.js",
+    "build:optimise": "node scripts/final_optimise.js",
+    "build": "npm run build:qbank && npm run build:ai-doctor && npm run build:seo && npm run build:products && npm run build:optimise",
+    "dev": "netlify dev"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.38.1"
+  }
+}

@@ -1,0 +1,32 @@
+[build]
+  command = "npm run build"
+  publish = "."
+  # Treat the "api" directory as the folder for Netlify serverless functions.
+  functions = "api"
+
+[dev]
+  framework = "#static"
+  publish = "."
+
+
+[[redirects]]
+  from = "/api/questions"
+  to = "/.netlify/functions/questions"
+  status = 200
+
+[[redirects]]
+  from = "/api/questions/*"
+  to = "/.netlify/functions/questions"
+  status = 200
+
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, OPTIONS"
+    Cache-Control = "s-maxage=3600, stale-while-revalidate"
+
+[[headers]]
+  for = "/seo-q/*"
+  [headers.values]
+    Cache-Control = "s-maxage=86400"

@@ -1,6 +1,6 @@
 ﻿const path = require('path');
 const fs = require('fs');
-const domain = 'https://www.auraherbs.vercel.app';
+const domain = 'https://www.auraherbs.netlify.app';
 
 // 1. Create Blogs
 const blogsToCreate = [
