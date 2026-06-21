@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kedicare.netlify.app/health-seo-package/ai-search/schema-markup/organization.json</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://kedicare.netlify.app/health-seo-package/ai-search/schema-markup/physician.json</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://kedicare.netlify.app/health-seo-package/ai-search/schema-markup/medical-webpage.json</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://kedicare.netlify.app/health-seo-package/ai-search/schema-markup/medical-condition.json</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://kedicare.netlify.app/health-seo-package/ai-search/schema-markup/faq.json</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>

@@ -2,12 +2,21 @@
 <html lang="en" data-theme="light">
 <head>
 <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/checkout-v2.html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Aura Herbs â€” Secure Checkout</title>
 <meta name="description" content="Pay securely with Card, Bank Transfer, Pi Network, or Crypto.">
 <link rel="stylesheet" href="assets/css/kedi-optimise.css">
-<script src="https://js.stripe.com/v3/"></script>
-<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+<script defer src="https://js.stripe.com/v3/"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 <script src="assets/js/mobile-wa.js" defer></script>
 <style>
 :root{--kedi:#4d231c;--gold:#d4a017;--green:#10b981;--bg:#f8f6f3;--card:#fff;--border:#e8ddd6;--text:#1e293b;--muted:#64748b}
@@ -95,6 +104,17 @@ input:focus,select:focus{outline:none;border-color:var(--kedi)}
                 <!-- Firebase Integration -->
     <script type="module" src="assets/js/firebase-init.js"></script>
     <link rel="stylesheet" href="assets/css/responsive.css"/>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body>
 
@@ -258,7 +278,7 @@ input:focus,select:focus{outline:none;border-color:var(--kedi)}
 
 <script>
 /* â”€â”€ Config â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
-const API_BASE   = 'https://www.auraherbs.com/api'; // or http://localhost:3001
+const API_BASE   = 'https://kedicare.netlify.app/api'; // or http://localhost:3001
 const STRIPE_PK  = 'pk_test_YourStripePublishableKey';
 const WA_URL     = 'https://api.whatsapp.com/send/?phone=2349015092132&type=phone_number&app_absent=0';
 const DELIVERY   = 1500;
@@ -286,7 +306,7 @@ function renderSummary() {
     const lineTotal = i.price * (i.quantity || 1);
     return `
     <div style="display:flex;gap:12px;align-items:center;padding:10px 0;border-bottom:1px solid var(--border)">
-      <img src="${i.img||'assets/img/product/img_01.png'}" style="width:48px;height:48px;border-radius:8px;object-fit:contain;background:#f8f6f3">
+      <img loading="lazy" src="${i.img||'assets/img/product/img_01.png'}" style="width:48px;height:48px;border-radius:8px;object-fit:contain;background:#f8f6f3">
       <div style="flex:1">
         <div style="font-size:.85rem;font-weight:700">${i.name}</div>
         <div style="font-size:.75rem;color:var(--muted)">Qty: ${i.quantity||1}</div>
@@ -607,8 +627,27 @@ window.addEventListener('auraCurrencyChanged', () => {
         });
     </script>
 
-    <script src="assets/js/cart.js"></script>
-<script src="assets/js/auth.js"></script><script src="assets/js/currency-manager.js"></script></body>
+    <script defer src="assets/js/cart.js"></script>
+<script defer src="assets/js/auth.js"></script><script defer src="assets/js/currency-manager.js"></script>
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
+</body>
 </html>
 
 

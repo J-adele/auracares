@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/offline.html">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>You're Offline – Kedi Healthcare</title>
+  <meta name="robots" content="noindex">
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:system-ui,-apple-system,sans-serif;background:#fdf6f0;display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px;text-align:center}
+    .card{background:#fff;border-radius:20px;padding:40px 32px;max-width:400px;width:100%;box-shadow:0 8px 32px rgba(0,0,0,.08)}
+    .icon{font-size:4rem;margin-bottom:16px}
+    h1{font-size:1.5rem;color:#4d231c;margin-bottom:10px}
+    p{color:#555;line-height:1.6;margin-bottom:24px}
+    a{display:inline-block;background:#4d231c;color:#fff;padding:14px 28px;border-radius:50px;text-decoration:none;font-weight:600;transition:opacity .2s}
+    a:hover{opacity:.85}
+  </style>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">📡</div>
+    <h1>You're Offline</h1>
+    <p>It looks like you don't have an internet connection right now. Please check your network and try again.</p>
+    <a href="/" onclick="window.location.reload();return false">Try Again</a>
+  </div>
+
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
+</body>
+</html>

@@ -25,11 +25,11 @@ function download(url, dest) {
 async function recover() {
     try {
         console.log("Recovering kedi.html...");
-        await download('https://www.auraherbs.com/kedi.html', path.join(__dirname_root, 'kedi.html'));
+        await download('https://kedicare.netlify.app/kedi.html', path.join(__dirname_root, 'kedi.html'));
         console.log("Recovering home-3.html...");
-        await download('https://www.auraherbs.com/home-3.html', path.join(__dirname_root, 'home-3.html'));
+        await download('https://kedicare.netlify.app/home-3.html', path.join(__dirname_root, 'home-3.html'));
         console.log("Recovering Farforlife.html...");
-        await download('https://www.auraherbs.com/Farforlife.html', path.join(__dirname_root, 'Farforlife.html'));
+        await download('https://kedicare.netlify.app/Farforlife.html', path.join(__dirname_root, 'Farforlife.html'));
         
         // Make kedi the index
         fs.copyFileSync(path.join(__dirname_root, 'kedi.html'), path.join(__dirname_root, 'index.html'));

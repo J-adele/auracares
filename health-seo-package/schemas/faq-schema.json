@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Kedicare Clinical Global?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kedicare Clinical Global is a leading clinical intelligence platform offering AI‑powered health diagnostics, traditional Chinese medicine herbal protocols, and a multi‑currency payment gateway."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I purchase products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Products can be purchased via the Shop page or directly through WhatsApp links provided on each product description."
+      }
+    }
+  ]
+}

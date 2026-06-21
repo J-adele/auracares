@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/seo-q/diabetes-screening-134-lifestyle-impact.html">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>When did the first signs of lifestyle impact appear? | Aura Herbs Clinical Q&A</title>
 <meta name="description" content="When did the first signs of lifestyle impact appear? Learn about Lifestyle Impact symptoms, risk levels, and the best Aura clinical protocol for treatment.">
@@ -18,6 +27,17 @@ body{font-family:Outfit,sans-serif;background:#05070A;color:white;max-width:800p
 a{color:#10B981;text-decoration:none;}.chip{display:inline-block;padding:8px 16px;border-radius:100px;background:rgba(16,185,129,0.1);color:#10B981;font-size:12px;font-weight:700;margin:4px;border:1px solid rgba(16,185,129,0.2);}
 .card{background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:20px;padding:24px;margin:20px 0;}
 </style>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body>
 <a href="../ai-doctor.html" style="display:inline-block;margin-bottom:32px;font-size:13px;font-weight:700;">← Back to AI Doctor</a>
@@ -42,5 +62,24 @@ a{color:#10B981;text-decoration:none;}.chip{display:inline-block;padding:8px 16p
   <p style="color:#9ca3af;margin-bottom:20px;">This question is part of our AI-powered Diabetes & Glucose assessment with 1245+ questions.</p>
   <a href="../ai-doctor.html" style="display:inline-block;background:#10B981;color:white;padding:14px 28px;border-radius:16px;font-weight:800;">Start Free AI Diagnosis →</a>
 </div>
+
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
 </body>
 </html>

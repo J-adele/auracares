@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap><loc>https://www.auraherbs.netlify.app/sitemap.xml</loc><lastmod>2026-06-12</lastmod></sitemap>
-  <sitemap><loc>https://www.auraherbs.netlify.app/image-sitemap.xml</loc><lastmod>2026-06-12</lastmod></sitemap>
-  <sitemap><loc>https://www.auraherbs.netlify.app/video-sitemap.xml</loc><lastmod>2026-06-12</lastmod></sitemap>
-  <sitemap><loc>https://www.auraherbs.netlify.app/seo-questions-sitemap.xml</loc><lastmod>2026-06-12</lastmod></sitemap>
-  <sitemap><loc>https://www.auraherbs.netlify.app/social-sitemap.xml</loc><lastmod>2026-06-12</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/seo-questions-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/social-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/pages-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/blog-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/disease-markdown-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/prevention-markdown-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/symptom-markdown-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/treatment-markdown-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/schema-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/images-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/videos-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
+  <sitemap><loc>https://kedicare.netlify.app/health-seo-package/sitemap/ai-resources-sitemap.xml</loc><lastmod>2026-06-20</lastmod></sitemap>
 </sitemapindex>

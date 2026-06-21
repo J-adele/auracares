@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/blog/index.html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HealthPulse | AI Health News, Smart Product Recommendations & Quiz</title>
     <meta name="description" content="HealthPulse delivers AI-powered health news, product intelligence, and clinical quiz recommendations across nutrition, biotech, pharma, and wellness.">
@@ -22,19 +31,30 @@
     <meta property="og:title" content="HealthPulse | AI Health News, Smart Product Recommendations & Quiz">
     <meta property="og:description" content="HealthPulse delivers AI-powered health news, product intelligence, and clinical quiz recommendations across nutrition, biotech, pharma, and wellness.">
     <meta property="og:image" content="https://healthpulse.example.com/share-image.png">
-    <meta property="og:url" content="https://healthpulse.example.com/index.html">
+    <meta property="og:url" content="https://kedicare.netlify.app/blog/index.html">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="HealthPulse | AI Health News, Smart Product Recommendations & Quiz">
     <meta name="twitter:description" content="HealthPulse delivers AI-powered health news, product intelligence, and clinical quiz recommendations across nutrition, biotech, pharma, and wellness.">
     <meta name="twitter:image" content="https://healthpulse.example.com/share-image.png">
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
     <!-- Firebase Integration -->
     <script type="module" src="../assets/js/firebase-init.js"></script>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body class="selection:bg-blue-100 antialiased">
 
@@ -174,7 +194,7 @@
                 <div class="grid gap-8 lg:grid-cols-[1fr_320px]">
                     <div class="space-y-6">
                         <div class="rounded-3xl overflow-hidden shadow-xl border border-slate-100">
-                            <img id="reader-image" class="w-full h-[420px] object-cover" alt="">
+                            <img loading="lazy" id="reader-image" class="w-full h-[420px] object-cover" alt="">
                         </div>
                         <p id="reader-content" class="text-base leading-relaxed text-slate-700"></p>
 
@@ -378,6 +398,25 @@
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script defer src="script.js"></script>
+
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
 </body>
 </html>

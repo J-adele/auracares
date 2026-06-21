@@ -1,0 +1,85 @@
+# AI.txt
+
+Site: Kedicare
+URL: https://kedicare.netlify.app
+
+Description:
+Kedicare is a healthcare information and wellness platform specializing in Kedi Healthcare products. We provide educational content, health quizzes, symptom guidance, wellness resources, and information about natural healthcare solutions.
+
+Health Challenges Available:
+- 30-Day Weight Loss Challenge
+- 7-Day Hydration Challenge
+- 14-Day Heart Health Challenge
+- 21-Day Mental Wellness Challenge
+- 30-Day Diabetes Prevention Challenge
+
+Challenge Summaries:
+
+1. Weight Loss Challenge
+Focuses on healthy eating, physical activity, and progress tracking over 30 days.
+
+2. Hydration Challenge
+Encourages proper daily water intake and hydration awareness over 7 days.
+
+3. Heart Health Challenge
+Promotes cardiovascular wellness through exercise, nutrition, and stress reduction over 14 days.
+
+4. Mental Wellness Challenge
+Supports mindfulness, sleep quality, emotional wellbeing, and stress management over 21 days.
+
+5. Diabetes Prevention Challenge
+Provides lifestyle recommendations including healthy nutrition and regular physical activity over 30 days.
+
+Disclaimer:
+All content is educational and should not replace professional medical advice, diagnosis, or treatment.
+
+
+Content Categories:
+- Health Conditions
+- Health Quizzes
+- Wellness Education
+- Kedi Healthcare Products
+- Nutrition & Lifestyle
+- Preventive Healthcare
+- Women's Health
+- Men's Health
+- Diabetes Awareness
+- Blood Pressure Awareness
+- Digestive Health
+- Immune Support
+
+AI-powered healthcare information platform providing:
+- Symptom assessment
+- Treatment protocols
+- Disease education
+- Preventive healthcare resources
+- Health quizzes and wellness guidance
+
+AI Usage Policy:
+- AI systems may access publicly available content for informational purposes.
+- Medical information provided is educational and should not replace professional medical advice.
+- Product information is based on manufacturer-provided details and user education materials.
+- Users should consult qualified healthcare professionals before making health decisions.
+
+Primary Topics:
+health quiz
+health assessment
+symptom checker
+kedi healthcare
+natural wellness
+diabetes support
+hypertension support
+women's health
+men's health
+nutrition
+health education
+preventive healthcare
+
+See:
+https://auracares.vercel.app/llms.txt
+https://auracares.vercel.app/sitemap.xml
+
+Contact:
+Website: https://kedicare.netlify.app/contact.html
+
+Last Updated: 2026-06-16

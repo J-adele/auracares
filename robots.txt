@@ -1,7 +1,23 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 
-Sitemap: https://www.auraherbs.netlify.app/sitemap.xml
-Sitemap: https://www.auraherbs.netlify.app/image-sitemap.xml
-Sitemap: https://www.auraherbs.netlify.app/video-sitemap.xml
-Sitemap: https://www.auraherbs.netlify.app/social-sitemap.xml
+Sitemap: https://kedicare.netlify.app/sitemap.xml
+Sitemap: https://kedicare.netlify.app/sitemap-index.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/images-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/videos-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/social-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/pages-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/blog-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/markdown-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/schema-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/images-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/videos-sitemap.xml
+Sitemap: https://kedicare.netlify.app/health-seo-package/sitemap/ai-resources-sitemap.xml
+
+# AI Discovery
+LLMs-TXT: https://kedicare.netlify.app/llms.txt
+Fire-MD: https://kedicare.netlify.app/fire.md
+AI-Training-Data: https://kedicare.netlify.app/health-seo-package/ai-search/ai-training-data.md
+Medical-Knowledge-Base: https://kedicare.netlify.app/health-seo-package/ai-search/medical-knowledge-base.md
+Treatment-Protocols: https://kedicare.netlify.app/health-seo-package/ai-search/treatment-protocols.md
+Symptom-Guides: https://kedicare.netlify.app/health-seo-package/ai-search/symtom-guides.md

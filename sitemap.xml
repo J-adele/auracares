@@ -1,256 +1,741 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <url>
-        <loc>https://www.auraherbs.netlify.app/404.html</loc>
+     <url>
+        <loc>https://kedicare.netlify.app/</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/about.html</loc>
+        <loc>https://kedicare.netlify.app/404.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/account.html</loc>
+        <loc>https://kedicare.netlify.app/about.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/ad-showcase.html</loc>
+        <loc>https://kedicare.netlify.app/account.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/admin-community.html</loc>
+        <loc>https://kedicare.netlify.app/ad-showcase.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/ai-doctor.html</loc>
+        <loc>https://kedicare.netlify.app/admin-community.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/auth.html</loc>
+        <loc>https://kedicare.netlify.app/ai-doctor.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/blog-immune-system.html</loc>
+        <loc>https://kedicare.netlify.app/auth.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/blog-male-vitality.html</loc>
+        <loc>https://kedicare.netlify.app/blog-immune-system.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/blog-metabolic-health.html</loc>
+        <loc>https://kedicare.netlify.app/blog-male-vitality.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/blog.html</loc>
+        <loc>https://kedicare.netlify.app/blog-metabolic-health.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/cart.html</loc>
+        <loc>https://kedicare.netlify.app/blog.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/checkout-v2.html</loc>
+        <loc>https://kedicare.netlify.app/cart.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/checkout.html</loc>
+        <loc>https://kedicare.netlify.app/checkout-v2.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/contact.html</loc>
+        <loc>https://kedicare.netlify.app/checkout.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/email-centre.html</loc>
+        <loc>https://kedicare.netlify.app/contact.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/Farforlife.html</loc>
+        <loc>https://kedicare.netlify.app/email-centre.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/franchise.html</loc>
+        <loc>https://kedicare.netlify.app/Farforlife.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/home-3.html</loc>
+        <loc>https://kedicare.netlify.app/franchise.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/kedi.html</loc>
+        <loc>https://kedicare.netlify.app/home-3.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://kedicare.netlify.app/kedi.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/news-single.html</loc>
+        <loc>https://kedicare.netlify.app/news-single.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/notifications.html</loc>
+        <loc>https://kedicare.netlify.app/notifications.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-cardibetter.html</loc>
+        <loc>https://kedicare.netlify.app/product-cardibetter.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-colon-cleanser.html</loc>
+        <loc>https://kedicare.netlify.app/product-colon-cleanser.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-constilease.html</loc>
+        <loc>https://kedicare.netlify.app/product-constilease.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-diawell.html</loc>
+        <loc>https://kedicare.netlify.app/product-diawell.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-golden-hypha.html</loc>
+        <loc>https://kedicare.netlify.app/product-golden-hypha.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-golden-six.html</loc>
+        <loc>https://kedicare.netlify.app/product-golden-six.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-haemocare.html</loc>
+        <loc>https://kedicare.netlify.app/product-haemocare.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-lirich.html</loc>
+        <loc>https://kedicare.netlify.app/product-lirich.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-lycovite.html</loc>
+        <loc>https://kedicare.netlify.app/product-lycovite.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-magilim.html</loc>
+        <loc>https://kedicare.netlify.app/product-magilim.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-refresh-tea.html</loc>
+        <loc>https://kedicare.netlify.app/product-refresh-tea.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-reishi.html</loc>
+        <loc>https://kedicare.netlify.app/product-reishi.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-revive.html</loc>
+        <loc>https://kedicare.netlify.app/product-revive.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-v-ca.html</loc>
+        <loc>https://kedicare.netlify.app/product-v-ca.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/product-vigor-essential.html</loc>
+        <loc>https://kedicare.netlify.app/product-vigor-essential.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/quiz.html</loc>
+        <loc>https://kedicare.netlify.app/quiz.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/roi-calculator.html</loc>
+        <loc>https://kedicare.netlify.app/roi-calculator.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/shop-left-sidebar.html</loc>
+        <loc>https://kedicare.netlify.app/shop-left-sidebar.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/shop-single.html</loc>
+        <loc>https://kedicare.netlify.app/shop-single.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.auraherbs.netlify.app/shop.html</loc>
+        <loc>https://kedicare.netlify.app/shop.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+<url>
+  <loc>https://kedicare.netlify.app/health/acidrefluxgerd.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/acne.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/anamia.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/anxiety.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/asthma.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/backpain.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/cancer.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/candidiasis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/cataracts.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/childernhealth.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/chronicbronchitis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/chronicfatique.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/chronickidneydisease.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/cirrhosis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/constipation.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/covid-19recovery.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/depression.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/diabetes.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url><url>
+  <loc>https://kedicare.netlify.app/health/eczema.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/endomentriosis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/erectiledysfunction.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/fatty-liver-disease.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/gastricdisordertype8.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/gastricdisordertype12.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/gastricdisordertype16.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/glaucoma.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/goiter.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/gout.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/hairlossalopecia.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/heartdisease.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/hemorrhoids.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/hepaticfatiquetype6.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/hepatitis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/highcholesterol.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/hivaidsimmunesupport.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/hypertension.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/insomia.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/kidneystones.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/leukemiasupport.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/lowspermcount.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/malaria.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/memoryloss.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/menopausesymtoms.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/menstrualcramps.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/mentalhealth.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/migraines.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/nutrition.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/obesity.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/osteoarthritis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/osteoporosis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/pcos.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/pepticulcer.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/pneumonia.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/pregnancy.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/prematureejaculation.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/psoriasis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/rheumatoidarthritis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/sciatica.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/sicklecellcrisismanagement.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/tuberculosis.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/type2diabetes.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/typhoidfever.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/urinary-tract-infection.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/uterine-fibroids.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health/women-health.md</loc>
+  <lastmod>2026-06-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/llms.txt</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/fire.md</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schemas/faq-schema.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schemas/clinical_recommendations.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schemas/organization-schema.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schemas/physician-schema.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schemas/medical-webpage-schema.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schemas/medical-condition-schema.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/metadata/pages-metadata.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/metadata/condition-metadata.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schema-markup/faq.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schema-markup/medical-condition.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schema-markup/medical-webpage.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schema-markup/organisation.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://kedicare.netlify.app/health-seo-package/schema-markup/physician.json</loc>
+  <lastmod>2026-06-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
 </urlset>

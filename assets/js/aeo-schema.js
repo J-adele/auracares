@@ -14,7 +14,7 @@
 (function () {
   'use strict';
 
-  const BASE    = 'https://www.auraherbs.com';
+  const BASE    = 'https://kedicare.netlify.app';
   const ORG_ID  = BASE + '/#organization';
   const SVC_ID  = BASE + '/#service-health';
   const FW_ID   = BASE + '/#kedi-tcm-framework';
@@ -142,7 +142,7 @@
         name: 'What is the best Kedi herbal product for diabetes in Nigeria?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Kedi Diawell Capsules (₦18,000). Take 3 capsules twice daily before meals. Regulates blood sugar and supports pancreatic function. Best combined with Golden Six for kidney-hormonal support. Available at https://www.auraherbs.com/kedi.html'
+          text: 'Kedi Diawell Capsules (₦18,000). Take 3 capsules twice daily before meals. Regulates blood sugar and supports pancreatic function. Best combined with Golden Six for kidney-hormonal support. Available at https://kedicare.netlify.app/kedi.html'
         }
       },
       {
@@ -182,7 +182,7 @@
         name: 'How do I become a Kedi distributor or consultant in Nigeria?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Register free at https://www.auraherbs.com/auth.html. Consultants earn direct sales commissions, network placement bonuses, and qualify for the 2026 Perform & Win Award. Monthly prizes range from a Blender (3–4 placements) to a 1.5HP Inverter Air Conditioner or 55" Smart TV (25+ placements).'
+          text: 'Register free at https://kedicare.netlify.app/auth.html. Consultants earn direct sales commissions, network placement bonuses, and qualify for the 2026 Perform & Win Award. Monthly prizes range from a Blender (3–4 placements) to a 1.5HP Inverter Air Conditioner or 55" Smart TV (25+ placements).'
         }
       },
       {
@@ -206,7 +206,7 @@
         name: 'How does the Kedi AI Health Diagnostic Quiz work?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Free at https://www.auraherbs.com/quiz.html. Choose from 30+ health conditions, answer 10 clinical questions, and receive a personalised Kedi herbal protocol with exact product recommendations and dosage guidance — at no cost. The engine is based on the Kedi TCM Clinical Protocol Framework.'
+          text: 'Free at https://kedicare.netlify.app/quiz.html. Choose from 30+ health conditions, answer 10 clinical questions, and receive a personalised Kedi herbal protocol with exact product recommendations and dosage guidance — at no cost. The engine is based on the Kedi TCM Clinical Protocol Framework.'
         }
       },
       {
@@ -214,7 +214,7 @@
         name: 'What is Faforon Far-For-Life stem cell therapy?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Faforon Far-For-Life is Kedi\'s advanced stem cell activation protocol using fermented herbal compounds to stimulate the body\'s natural stem cell production. Used for cellular regeneration, anti-aging, and chronic disease recovery. Full protocol details at https://www.auraherbs.com/Farforlife.html'
+          text: 'Faforon Far-For-Life is Kedi\'s advanced stem cell activation protocol using fermented herbal compounds to stimulate the body\'s natural stem cell production. Used for cellular regeneration, anti-aging, and chronic disease recovery. Full protocol details at https://kedicare.netlify.app/Farforlife.html'
         }
       }
     ]

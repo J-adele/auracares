@@ -5,6 +5,15 @@
 
     <!--========= Required meta tags =========-->
     <meta charset="utf-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/home-3.html">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -34,8 +43,8 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Aura Herbs",
-  "url": "https://www.auraherbs.netlify.app",
-  "logo": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg",
+  "url": "https://kedicare.netlify.app",
+  "logo": "https://kedicare.netlify.app/assets/img/logo/logo.svg",
   "sameAs": [
     "https://www.facebook.com/auraherbs",
     "https://twitter.com/auraherbs"
@@ -54,10 +63,10 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Aura Herbs",
-  "url": "https://www.auraherbs.netlify.app",
+  "url": "https://kedicare.netlify.app",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.auraherbs.netlify.app/shop.html?q={search_term_string}",
+    "target": "https://kedicare.netlify.app/shop.html?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -75,7 +84,7 @@
     "addressCountry": "NG"
   },
   "telephone": "+234-901-509-2132",
-  "url": "https://www.auraherbs.netlify.app/kedicenter.html",
+  "url": "https://kedicare.netlify.app/kedicenter.html",
   "openingHours": "Mo-Fr 08:00-18:00",
   "priceRange": "₦₦"
 }
@@ -89,18 +98,29 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.auraherbs.netlify.app/kedi.html"
+      "item": "https://kedicare.netlify.app/kedi.html"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Aura Herbs Health Selection",
-      "item": "https://www.auraherbs.netlify.app/home-3.html"
+      "item": "https://kedicare.netlify.app/home-3.html"
     }
   ]
 }
 </script>
 <!-- AURA-SCHEMA-END -->
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 
 <body>
@@ -163,7 +183,7 @@
                 <div class="header__middle ul_li_between">
                     <div class="header__logo">
                         <a href="kedi.html">
-                            <img src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
+                            <img loading="lazy" src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
                         </a>
                     </div>
                     <div class="header-date">
@@ -179,7 +199,7 @@
                     </div>
                     <div class="add">
                         <a href="shop.html">
-                            <img src="assets/img/product/beaty soap.jpeg" alt="Kedi Soap" style="max-height: 80px; width: auto; object-fit: contain;">
+                            <img loading="lazy" src="assets/img/product/beaty soap.jpeg" alt="Kedi Soap" style="max-height: 80px; width: auto; object-fit: contain;">
                         </a>
                     </div>
                     <div class="d-none d-lg-block">
@@ -187,7 +207,7 @@
                             <div class="header__language style-2 mr-25">
                                 <ul>
                                     <li>
-                                        <a href="#!" class="lang-btn"><img src="assets/img/icon/usd_flag.png" alt=""> English <i class="far fa-chevron-down"></i></a>
+                                        <a href="#!" class="lang-btn"><img loading="lazy" src="assets/img/icon/usd_flag.png" alt=""> English <i class="far fa-chevron-down"></i></a>
                                         <ul class="lang_sub_list">
                                             <li><a href="#">English</a></li>
                                             <li><a href="#">Yoruba</a></li>
@@ -211,11 +231,11 @@
                     <div class="header__main ul_li">
                         <div class="header__logo">
                             <a href="kedi.html">
-                                <img src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
+                                <img loading="lazy" src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
                             </a>
                         </div>
                         <div class="header__category">
-                            <a class="header__category-nav" href="#!"><img class="bar" src="assets/img/icon/bar.svg" alt="">Browse Categories<i class="fas fa-chevron-down"></i></a>
+                            <a class="header__category-nav" href="#!"><img loading="lazy" class="bar" src="assets/img/icon/bar.svg" alt="">Browse Categories<i class="fas fa-chevron-down"></i></a>
                         </div>
                         <div class="hamburger_menu d-lg-none">
                             <a href="javascript:void(0);" class="active">
@@ -235,7 +255,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="kedi.html">
-                                                                    <img src="assets/img/demo/demo-1.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-1.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 1</h3>
@@ -243,7 +263,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="home-2.html">
-                                                                    <img src="assets/img/demo/demo-2.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-2.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 2</h3>
@@ -251,7 +271,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="home-3.html">
-                                                                    <img src="assets/img/demo/demo-3.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-3.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 3</h3>
@@ -303,17 +323,17 @@
                         <div class="header__main-right ul_li">
                             <div class="header__icons ul_li mr-15">
                                 <div class="icon">
-                                    <a href="account.html"><img src="assets/img/icon/user.svg" alt="Account"></a>
+                                    <a href="account.html"><img loading="lazy" src="assets/img/icon/user.svg" alt="Account"></a>
                                 </div>
                                 <div class="icon wishlist-icon">
                                     <a href="#!" aria-label="Wishlist">
-                                        <img src="assets/img/icon/heart.svg" alt="Wishlist">
+                                        <img loading="lazy" src="assets/img/icon/heart.svg" alt="Wishlist">
                                         <span class="wish-count">0</span>
                                     </a>
                                 </div>
                                 <div class="icon cart-icon">
                                     <a href="cart.html" aria-label="Cart">
-                                        <img src="assets/img/icon/cart.svg" alt="Cart">
+                                        <img loading="lazy" src="assets/img/icon/cart.svg" alt="Cart">
                                         <span class="cart-count">0</span>
                                     </a>
                                 </div>
@@ -346,7 +366,7 @@
                 <div class="cart_items_list">
                     <div class="cart_item">
                         <div class="item_image">
-                            <img src="assets/img/product/img_133.png" alt="image_not_found">
+                            <img loading="lazy" src="assets/img/product/img_133.png" alt="image_not_found">
                         </div>
                         <div class="item_content">
                             <h4 class="item_title">
@@ -358,7 +378,7 @@
                     </div>
                     <div class="cart_item">
                         <div class="item_image">
-                            <img src="assets/img/product/img_138.png" alt="image_not_found">
+                            <img loading="lazy" src="assets/img/product/img_138.png" alt="image_not_found">
                         </div>
                         <div class="item_content">
                             <h4 class="item_title">
@@ -370,7 +390,7 @@
                     </div>
                     <div class="cart_item">
                         <div class="item_image">
-                            <img src="assets/img/product/img_137.png" alt="image_not_found">
+                            <img loading="lazy" src="assets/img/product/img_137.png" alt="image_not_found">
                         </div>
                         <div class="item_content">
                             <h4 class="item_title">
@@ -382,7 +402,7 @@
                     </div>
                     <div class="cart_item">
                         <div class="item_image">
-                            <img src="assets/img/product/img_135.png" alt="image_not_found">
+                            <img loading="lazy" src="assets/img/product/img_135.png" alt="image_not_found">
                         </div>
                         <div class="item_content">
                             <h4 class="item_title">
@@ -472,10 +492,10 @@
                     <div class="banner__wrapper d-flex">
                         <div class="category-nav">
                             <ul class="category-nav__list list-unstyled">
-                                <li><a href="#"><img src="assets/img/icon/cat_01.svg" alt="">Diagnostic Toolkits</a>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_01.svg" alt="">Diagnostic Toolkits</a>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="#"><img src="assets/img/icon/cat_02.svg" alt="">Clinical Protocols</a>
+                                    <a href="#"><img loading="lazy" src="assets/img/icon/cat_02.svg" alt="">Clinical Protocols</a>
                                     <ul>
                                         <li><a href="#">Immune Defense</a></li>
                                         <li><a href="#">Metabolic Support</a></li>
@@ -483,24 +503,24 @@
                                         <li><a href="#">Cellular Regeneration</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#"><img src="assets/img/icon/cat_03.svg" alt="">Men's Vitality</a></li>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_03.svg" alt="">Men's Vitality</a></li>
                                 <li class="menu-item-has-children">
-                                    <a href="#"><img src="assets/img/icon/cat_04.svg" alt="">Women's Care</a>
+                                    <a href="#"><img loading="lazy" src="assets/img/icon/cat_04.svg" alt="">Women's Care</a>
                                     <ul>
                                         <li><a href="#">Hormonal Balance</a></li>
                                         <li><a href="#">Bone Health</a></li>
                                         <li><a href="#">Prenatal Support</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#"><img src="assets/img/icon/cat_05.svg" alt="">Pediatric Protocols</a>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_05.svg" alt="">Pediatric Protocols</a>
                                 </li>
-                                <li><a href="#"><img src="assets/img/icon/cat_06.svg" alt="">Recovery Bundles</a></li>
-                                <li><a href="#"><img src="assets/img/icon/cat_07.svg" alt="">Neurological Support</a>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_06.svg" alt="">Recovery Bundles</a></li>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_07.svg" alt="">Neurological Support</a>
                                 </li>
-                                <li><a href="#"><img src="assets/img/icon/cat_08.svg" alt="">Digestive Aids</a></li>
-                                <li><a href="#"><img src="assets/img/icon/cat_09.svg" alt="">Renal Health</a></li>
-                                <li><a href="#"><img src="assets/img/icon/cat_10.svg" alt="">Ocular Vision Care</a></li>
-                                <li><a href="#"><img src="assets/img/icon/cat_11.svg" alt="">Clinical Instruments</a>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_08.svg" alt="">Digestive Aids</a></li>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_09.svg" alt="">Renal Health</a></li>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_10.svg" alt="">Ocular Vision Care</a></li>
+                                <li><a href="#"><img loading="lazy" src="assets/img/icon/cat_11.svg" alt="">Clinical Instruments</a>
                                 </li>
                             </ul>
                         </div>
@@ -521,10 +541,10 @@
                                 </div>
                             </div>
                             <div class="banner__img">
-                                <img src="assets/img/product/Cordy Active.png" alt="">
+                                <img loading="lazy" src="assets/img/product/Cordy Active.png" alt="">
                             </div>
                             <div class="banner__ofer-box">
-                                <img src="assets/img/icon/offer_bg.png" alt="">
+                                <img loading="lazy" src="assets/img/icon/offer_bg.png" alt="">
                                 <span class="offer-text"><span class="discount">30<span>%</span></span> <br>
                                     <span>OFF</span></span>
                             </div>
@@ -540,55 +560,55 @@
                     <div class="category__slide">
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_01.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_01.svg" alt="">
                             </div>
                             <h3 class="category__title">Aura Diagnostics</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_02.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_02.svg" alt="">
                             </div>
                             <h3 class="category__title">Clinical Immunity</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_03.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_03.svg" alt="">
                             </div>
                             <h3 class="category__title">Herbal Medicine</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_04.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_04.svg" alt="">
                             </div>
                             <h3 class="category__title">Vision Care</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_05.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_05.svg" alt="">
                             </div>
                             <h3 class="category__title">Men's Vitality</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_06.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_06.svg" alt="">
                             </div>
                             <h3 class="category__title">Cellular Health</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_07.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_07.svg" alt="">
                             </div>
                             <h3 class="category__title">Cardiac Health</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_08.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_08.svg" alt="">
                             </div>
                             <h3 class="category__title">Women's Care</h3>
                         </a>
                         <a class="category__item" href="#!">
                             <div class="category__icon">
-                                <img src="assets/img/icon/c_03.svg" alt="">
+                                <img loading="lazy" src="assets/img/icon/c_03.svg" alt="">
                             </div>
                             <h3 class="category__title">Respiratory Health</h3>
                         </a>
@@ -606,7 +626,7 @@
                 <div class="banner-slide__single">
                     <div class="banner-slide__item ul_li bg_img">
                         <div class="banner-slide__img">
-                            <img src="assets/img/product/vip-massage_chair.jpg" alt="VIP Massage Chair">
+                            <img loading="lazy" src="assets/img/product/vip-massage_chair.jpg" alt="VIP Massage Chair">
                         </div>
                         <div class="banner-slide__content">
                             <span class="offer" style="background: #10b981;">Medical Grade</span>
@@ -620,7 +640,7 @@
                 <div class="banner-slide__single">
                     <div class="banner-slide__item ul_li bg_img" data-background="assets/img/bg/bg_22.jpg">
                         <div class="banner-slide__img">
-                            <img src="assets/img/product/Blood-circulatory-machine.png" alt="Blood Circulatory Machine">
+                            <img loading="lazy" src="assets/img/product/Blood-circulatory-machine.png" alt="Blood Circulatory Machine">
                         </div>
                         <div class="banner-slide__content">
                             <span class="offer" style="background: #10b981;">Cardiovascular Therapy</span>
@@ -634,7 +654,7 @@
                 <div class="banner-slide__single">
                     <div class="banner-slide__item ul_li bg_img">
                         <div class="banner-slide__img">
-                            <img src="assets/img/product/refresh-tea.png" alt="Refresh Tea">
+                            <img loading="lazy" src="assets/img/product/refresh-tea.png" alt="Refresh Tea">
                         </div>
                         <div class="banner-slide__content">
                             <span class="offer" style="background: #10b981;">Detox Protocol</span>
@@ -648,7 +668,7 @@
                 <div class="banner-slide__single">
                     <div class="banner-slide__item ul_li bg_img" data-background="assets/img/bg/bg_22.jpg">
                         <div class="banner-slide__img">
-                            <img src="assets/img/product/Hydrogen cup (1).jpg" alt="Hydrogen Cup">
+                            <img loading="lazy" src="assets/img/product/Hydrogen cup (1).jpg" alt="Hydrogen Cup">
                         </div>
                         <div class="banner-slide__content">
                             <span class="offer" style="background: #10b981;">Cellular Hydration</span>
@@ -702,7 +722,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/DIAWELL.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -733,7 +753,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/Gastrifort.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/Gastrifort.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -767,13 +787,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/Gastrifort.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/Gastrifort.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Golden six.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/Golden six.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Golden six.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/Golden six.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -805,7 +825,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/CARDIBETTER222.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/CARDIBETTER222.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -836,7 +856,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/VITAGENT.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/VITAGENT.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -867,7 +887,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_133.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_133.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -901,13 +921,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/Golden six.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/Golden six.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_132.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/img_132.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_133.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/img_133.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Golden six.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/Golden six.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -939,7 +959,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_133.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_133.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -975,7 +995,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_133.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_133.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1006,7 +1026,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/VITAGENT.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/VITAGENT.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1040,13 +1060,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_133.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/img_133.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_132.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/img_132.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1081,13 +1101,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/VITAGENT.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/VITAGENT.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_133.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/img_133.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/DIAWELL.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Cordy Active.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/Cordy Active.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1119,7 +1139,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/CARDIBETTER222.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/CARDIBETTER222.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1150,7 +1170,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/VITAGENT.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/VITAGENT.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1181,7 +1201,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_132.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_132.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1212,7 +1232,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/CARDIBETTER222.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/CARDIBETTER222.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1251,13 +1271,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/Magilim.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/Magilim.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Hemocare.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Hemocare.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_133.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/img_133.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1292,13 +1312,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/img_134.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/img_134.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/VITAGENT.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/VITAGENT.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1330,7 +1350,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_134.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_134.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1364,13 +1384,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/Cordy Active.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/Cordy Active.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_133.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/img_133.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/DIAWELL.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1402,7 +1422,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/Gastrifort.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/Gastrifort.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1436,13 +1456,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Golden six.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/Golden six.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Cordy Active.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Cordy Active.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Cordy Active.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/Cordy Active.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1477,13 +1497,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/DIAWELL.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Golden six.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/Golden six.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/VITAGENT.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/VITAGENT.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1515,7 +1535,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/Reishi.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/Reishi.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1551,7 +1571,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/Gastrifort.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/Gastrifort.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1585,13 +1605,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/img_134.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/img_134.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/img_133.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/img_133.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/CARDIBETTER222.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/CARDIBETTER222.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1623,7 +1643,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_132.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_132.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1654,7 +1674,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/Hemocare.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/Hemocare.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1685,7 +1705,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/img_134.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/img_134.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1716,7 +1736,7 @@
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
                                                 <a href="shop-single.html">
-                                                    <img src="assets/img/product/Gastrifort.png" alt="Product"
+                                                    <img loading="lazy" src="assets/img/product/Gastrifort.png" alt="Product"
                                                         style="height: 160px; object-fit: contain;">
                                                 </a>
                                                 <ul class="product__action style-2 ul_li">
@@ -1750,13 +1770,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/img_132.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/img_132.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/CARDIBETTER222.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/CARDIBETTER222.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/DIAWELL.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/DIAWELL.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1791,13 +1811,13 @@
 
                                                     <div class="product-collage-grid"
                                                         style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; padding: 10px; background: #f1f5f9; border-radius: 10px;">
-                                                        <img src="assets/img/product/img_132.png" alt="P1"
+                                                        <img loading="lazy" src="assets/img/product/img_132.png" alt="P1"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Reishi.png" alt="P2"
+                                                        <img loading="lazy" src="assets/img/product/Reishi.png" alt="P2"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/Magilim.png" alt="P3"
+                                                        <img loading="lazy" src="assets/img/product/Magilim.png" alt="P3"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
-                                                        <img src="assets/img/product/DIAWELL.png" alt="P4"
+                                                        <img loading="lazy" src="assets/img/product/DIAWELL.png" alt="P4"
                                                             style="width: 100%; height: 60px; object-fit: contain; background: #fff; border-radius: 5px; padding: 2px;">
                                                     </div>
                                                 </a>
@@ -1843,7 +1863,7 @@
                                     </div>
                                 </div>
                                 <div class="add-banner__img">
-                                    <img src="assets/img/product/img_130.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_130.png" alt="">
                                 </div>
                             </div>
                         </a>
@@ -1875,7 +1895,7 @@
                                                 style="background: #10b981;">Order Now</a>
                                         </div>
                                         <div class="add-banner-img">
-                                            <img src="assets/img/product/img_131.png" alt="">
+                                            <img loading="lazy" src="assets/img/product/img_131.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -1901,7 +1921,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.html"><img
+                                                        <a href="shop-single.html"><img loading="lazy"
                                                                 src="assets/img/product/img_132.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a>
@@ -1939,7 +1959,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.html"><img
+                                                        <a href="shop-single.html"><img loading="lazy"
                                                                 src="assets/img/product/img_133.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a>
@@ -1978,7 +1998,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="product__item style-2">
                                                     <div class="product__img text-center pos-rel">
-                                                        <a href="shop-single.html"><img
+                                                        <a href="shop-single.html"><img loading="lazy"
                                                                 src="assets/img/product/img_134.png" alt=""></a>
                                                         <ul class="product__action style-2 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a>
@@ -2028,7 +2048,7 @@
                                 <div class="tx-widget__product-single">
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_135.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_135.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2039,7 +2059,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_136.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_136.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2050,7 +2070,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_137.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_137.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2061,7 +2081,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_138.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_138.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2072,7 +2092,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_135.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_135.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2085,7 +2105,7 @@
                                 <div class="tx-widget__product-single">
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_135.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_135.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2096,7 +2116,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_136.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_136.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2107,7 +2127,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_137.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_137.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2118,7 +2138,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_138.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_138.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2129,7 +2149,7 @@
                                     </div>
                                     <div class="tx-widget__product-item tx-product ul_li">
                                         <div class="thumb">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_135.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_135.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="content">
@@ -2170,7 +2190,7 @@
                                     </h3>
                                 </div>
                                 <div class="side-product__img">
-                                    <img src="assets/img/product/img_143.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_143.png" alt="">
                                 </div>
                                 <div class="side-product__offer">
                                     10% <br>
@@ -2192,7 +2212,7 @@
                                     </h3>
                                 </div>
                                 <div class="side-product__img">
-                                    <img src="assets/img/product/img_144.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_144.png" alt="">
                                 </div>
                                 <div class="side-product__offer">
                                     15% <br>
@@ -2214,7 +2234,7 @@
                                     </h3>
                                 </div>
                                 <div class="side-product__img">
-                                    <img src="assets/img/product/img_145.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_145.png" alt="">
                                 </div>
                                 <div class="side-product__offer">
                                     20% <br>
@@ -2238,7 +2258,7 @@
                                     </h3>
                                 </div>
                                 <div class="side-product__img">
-                                    <img src="assets/img/product/img_143.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_143.png" alt="">
                                 </div>
                                 <div class="side-product__offer">
                                     25% <br>
@@ -2260,7 +2280,7 @@
                                     </h3>
                                 </div>
                                 <div class="side-product__img">
-                                    <img src="assets/img/product/img_144.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_144.png" alt="">
                                 </div>
                                 <div class="side-product__offer">
                                     25% <br>
@@ -2282,7 +2302,7 @@
                                     </h3>
                                 </div>
                                 <div class="side-product__img">
-                                    <img src="assets/img/product/img_145.png" alt="">
+                                    <img loading="lazy" src="assets/img/product/img_145.png" alt="">
                                 </div>
                                 <div class="side-product__offer">
                                     25% <br>
@@ -2331,7 +2351,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_139.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_139.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2365,7 +2385,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_140.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_140.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2400,7 +2420,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_141.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_141.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2434,7 +2454,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_142.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_142.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2473,7 +2493,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_139.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_139.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2507,7 +2527,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_140.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_140.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2542,7 +2562,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_141.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_141.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2576,7 +2596,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_142.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_142.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2615,7 +2635,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_139.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_139.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2649,7 +2669,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_140.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_140.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2684,7 +2704,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_141.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_141.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2718,7 +2738,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_142.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_142.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2757,7 +2777,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_139.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_139.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2791,7 +2811,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_140.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_140.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2826,7 +2846,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_141.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_141.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2860,7 +2880,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_142.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_142.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2898,7 +2918,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_139.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_139.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2932,7 +2952,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_140.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_140.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -2967,7 +2987,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_141.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_141.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -3001,7 +3021,7 @@
                                     <div class="col-lg-3 col-md-6">
                                         <div class="product__item style-2">
                                             <div class="product__img text-center pos-rel">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_142.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_142.png"
                                                         alt=""></a>
                                                 <ul class="product__action style-2 ul_li">
                                                     <li><a href="#!"><i class="far fa-compress-alt"></i></a></li>
@@ -3037,7 +3057,7 @@
                         </div>
                     </div>
                     <div class="add mt-25">
-                        <a href="#!"><img src="assets/img/add/img_03.jpg" alt=""></a>
+                        <a href="#!"><img loading="lazy" src="assets/img/add/img_03.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -3098,7 +3118,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_146.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_146.png"
                                                     alt=""></a>
 
                                         </div>
@@ -3136,7 +3156,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_147.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_147.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3174,7 +3194,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_148.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_148.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3211,7 +3231,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_149.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_149.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3248,7 +3268,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_150.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_150.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3285,7 +3305,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_151.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_151.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3323,7 +3343,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_152.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_152.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3360,7 +3380,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_153.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_153.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3402,7 +3422,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_146.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_146.png"
                                                     alt=""></a>
 
                                         </div>
@@ -3440,7 +3460,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_147.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_147.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3478,7 +3498,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_148.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_148.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3515,7 +3535,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_149.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_149.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3552,7 +3572,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_150.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_150.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3589,7 +3609,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_151.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_151.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3627,7 +3647,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_152.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_152.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3664,7 +3684,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_153.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_153.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3706,7 +3726,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_146.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_146.png"
                                                     alt=""></a>
 
                                         </div>
@@ -3744,7 +3764,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_147.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_147.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3782,7 +3802,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_148.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_148.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3819,7 +3839,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_149.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_149.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3856,7 +3876,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_150.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_150.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3893,7 +3913,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_151.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_151.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3931,7 +3951,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_152.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_152.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -3968,7 +3988,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_153.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_153.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4010,7 +4030,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_146.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_146.png"
                                                     alt=""></a>
 
                                         </div>
@@ -4048,7 +4068,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_147.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_147.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4086,7 +4106,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_148.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_148.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4123,7 +4143,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_149.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_149.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4160,7 +4180,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_150.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_150.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4197,7 +4217,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_151.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_151.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4235,7 +4255,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_152.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_152.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4272,7 +4292,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_153.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_153.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4314,7 +4334,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_146.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_146.png"
                                                     alt=""></a>
 
                                         </div>
@@ -4352,7 +4372,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_147.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_147.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4390,7 +4410,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_148.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_148.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4427,7 +4447,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_149.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_149.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4464,7 +4484,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_150.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_150.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4501,7 +4521,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_151.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_151.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4539,7 +4559,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_152.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_152.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4576,7 +4596,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="product__item style-2">
                                         <div class="product__img text-center pos-rel">
-                                            <a href="shop-single.html"><img src="assets/img/product/img_153.png"
+                                            <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_153.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="product__content">
@@ -4636,7 +4656,7 @@
                                                 <h3>dRIED <span>fRU</span>,<br> nATUREL fRUIT</h3>
                                             </div>
                                             <div class="vdx-banner__img">
-                                                <img src="assets/img/product/img_154.png" alt="">
+                                                <img loading="lazy" src="assets/img/product/img_154.png" alt="">
                                             </div>
                                         </div>
                                     </a>
@@ -4651,7 +4671,7 @@
                                                         class="old">â‚¦8,500</span></h4>
                                             </div>
                                             <div class="vdx-banner__img">
-                                                <img src="assets/img/product/img_155.png" alt="">
+                                                <img loading="lazy" src="assets/img/product/img_155.png" alt="">
                                             </div>
                                         </div>
                                     </a>
@@ -4665,7 +4685,7 @@
                                     <div class="product__slider tx-arrow">
                                         <div class="product__slider-item">
                                             <div class="product__slider-img">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_156.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_156.png"
                                                         alt=""></a>
                                                 <div class="offer">
                                                     25% <br>
@@ -4697,7 +4717,7 @@
                                         </div>
                                         <div class="product__slider-item">
                                             <div class="product__slider-img">
-                                                <a href="shop-single.html"><img src="assets/img/product/img_156.png"
+                                                <a href="shop-single.html"><img loading="lazy" src="assets/img/product/img_156.png"
                                                         alt=""></a>
                                                 <div class="offer">
                                                     25% <br>
@@ -4762,7 +4782,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_157.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -4791,7 +4811,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_158.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -4821,7 +4841,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="feature-product__single2 mt-15 tx-product">
                                                     <div class="image text-center pos-rel">
-                                                        <a href="shop-single.html"><img
+                                                        <a href="shop-single.html"><img loading="lazy"
                                                                 src="assets/img/product/img_159.png" alt=""></a>
                                                         <ul class="product__action style-2 br-5 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a>
@@ -4855,7 +4875,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_160.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -4884,7 +4904,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_161.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -4920,7 +4940,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_157.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -4949,7 +4969,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_158.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -4979,7 +4999,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="feature-product__single2 mt-15 tx-product">
                                                     <div class="image text-center pos-rel">
-                                                        <a href="shop-single.html"><img
+                                                        <a href="shop-single.html"><img loading="lazy"
                                                                 src="assets/img/product/img_159.png" alt=""></a>
                                                         <ul class="product__action style-2 br-5 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a>
@@ -5013,7 +5033,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_160.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -5042,7 +5062,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_161.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -5078,7 +5098,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_157.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -5107,7 +5127,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_158.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -5137,7 +5157,7 @@
                                             <div class="col-lg-4 col-md-6">
                                                 <div class="feature-product__single2 mt-15 tx-product">
                                                     <div class="image text-center pos-rel">
-                                                        <a href="shop-single.html"><img
+                                                        <a href="shop-single.html"><img loading="lazy"
                                                                 src="assets/img/product/img_159.png" alt=""></a>
                                                         <ul class="product__action style-2 br-5 ul_li">
                                                             <li><a href="#!"><i class="far fa-compress-alt"></i></a>
@@ -5171,7 +5191,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_160.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -5200,7 +5220,7 @@
                                                 <div class="feature-product__single mt-15">
                                                     <div class="feature-product__product ul_li">
                                                         <div class="image">
-                                                            <a href="shop-single.html"><img
+                                                            <a href="shop-single.html"><img loading="lazy"
                                                                     src="assets/img/product/img_161.png" alt=""></a>
                                                         </div>
                                                         <div class="content">
@@ -5232,22 +5252,22 @@
                                 </div>
                                 <div class="brand__slide mt-30">
                                     <div class="brand__item">
-                                        <a href="#!"><img src="assets/img/brand/b_01.png" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/brand/b_01.png" alt=""></a>
                                     </div>
                                     <div class="brand__item">
-                                        <a href="#!"><img src="assets/img/brand/b_02.png" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/brand/b_02.png" alt=""></a>
                                     </div>
                                     <div class="brand__item">
-                                        <a href="#!"><img src="assets/img/brand/b_03.png" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/brand/b_03.png" alt=""></a>
                                     </div>
                                     <div class="brand__item">
-                                        <a href="#!"><img src="assets/img/brand/b_04.png" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/brand/b_04.png" alt=""></a>
                                     </div>
                                     <div class="brand__item">
-                                        <a href="#!"><img src="assets/img/brand/b_05.png" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/brand/b_05.png" alt=""></a>
                                     </div>
                                     <div class="brand__item">
-                                        <a href="#!"><img src="assets/img/brand/b_02.png" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/brand/b_02.png" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -5257,13 +5277,13 @@
                             <div class="news__slide mt-20 tx-arrow">
                                 <div class="news__item">
                                     <div class="news__thumb">
-                                        <a href="#!"><img src="assets/img/news/img_01.jpg" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/news/img_01.jpg" alt=""></a>
                                     </div>
                                     <div class="news__content">
                                         <div class="news__meta ul_li">
                                             <div class="news__meta-author ul_li">
                                                 <div class="avatar">
-                                                    <img src="assets/img/news/avatar.jpg" alt="">
+                                                    <img loading="lazy" src="assets/img/news/avatar.jpg" alt="">
                                                 </div>
                                                 <span>nawab</span>
                                             </div>
@@ -5280,13 +5300,13 @@
                                 </div>
                                 <div class="news__item">
                                     <div class="news__thumb">
-                                        <a href="#!"><img src="assets/img/news/img_02.jpg" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/news/img_02.jpg" alt=""></a>
                                     </div>
                                     <div class="news__content">
                                         <div class="news__meta ul_li">
                                             <div class="news__meta-author ul_li">
                                                 <div class="avatar">
-                                                    <img src="assets/img/news/avatar.jpg" alt="">
+                                                    <img loading="lazy" src="assets/img/news/avatar.jpg" alt="">
                                                 </div>
                                                 <span>nawab</span>
                                             </div>
@@ -5303,13 +5323,13 @@
                                 </div>
                                 <div class="news__item">
                                     <div class="news__thumb">
-                                        <a href="#!"><img src="assets/img/news/img_03.jpg" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/news/img_03.jpg" alt=""></a>
                                     </div>
                                     <div class="news__content">
                                         <div class="news__meta ul_li">
                                             <div class="news__meta-author ul_li">
                                                 <div class="avatar">
-                                                    <img src="assets/img/news/avatar.jpg" alt="">
+                                                    <img loading="lazy" src="assets/img/news/avatar.jpg" alt="">
                                                 </div>
                                                 <span>nawab</span>
                                             </div>
@@ -5326,13 +5346,13 @@
                                 </div>
                                 <div class="news__item">
                                     <div class="news__thumb">
-                                        <a href="#!"><img src="assets/img/news/img_01.jpg" alt=""></a>
+                                        <a href="#!"><img loading="lazy" src="assets/img/news/img_01.jpg" alt=""></a>
                                     </div>
                                     <div class="news__content">
                                         <div class="news__meta ul_li">
                                             <div class="news__meta-author ul_li">
                                                 <div class="avatar">
-                                                    <img src="assets/img/news/avatar.jpg" alt="">
+                                                    <img loading="lazy" src="assets/img/news/avatar.jpg" alt="">
                                                 </div>
                                                 <span>nawab</span>
                                             </div>
@@ -5367,7 +5387,7 @@
                                 </a>
                             </div>
                             <div class="add-banner__img mb-20">
-                                <img src="assets/img/product/img_164.png" alt="">
+                                <img loading="lazy" src="assets/img/product/img_164.png" alt="">
                             </div>
                         </div>
                         <div class="tx-widget mt-30">
@@ -5415,16 +5435,16 @@
                                 </div>
                                 <div class="feedback__nav">
                                     <div class="feedback__img">
-                                        <img src="assets/img/avatar/img_01.jpg" alt="">
+                                        <img loading="lazy" src="assets/img/avatar/img_01.jpg" alt="">
                                     </div>
                                     <div class="feedback__img">
-                                        <img src="assets/img/avatar/img_03.jpg" alt="">
+                                        <img loading="lazy" src="assets/img/avatar/img_03.jpg" alt="">
                                     </div>
                                     <div class="feedback__img">
-                                        <img src="assets/img/avatar/img_04.jpg" alt="">
+                                        <img loading="lazy" src="assets/img/avatar/img_04.jpg" alt="">
                                     </div>
                                     <div class="feedback__img">
-                                        <img src="assets/img/avatar/img_01.jpg" alt="">
+                                        <img loading="lazy" src="assets/img/avatar/img_01.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -5464,7 +5484,7 @@
                             <a href="contact.html">Make enquiry <i class="far fa-long-arrow-right"></i></a>
                         </div>
                         <div class="thumb">
-                            <img src="assets/img/product/img_162.png" alt="">
+                            <img loading="lazy" src="assets/img/product/img_162.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -5477,7 +5497,7 @@
                             <a href="contact.html">Make enquiry <i class="far fa-long-arrow-right"></i></a>
                         </div>
                         <div class="thumb">
-                            <img src="assets/img/product/img_163.png" alt="">
+                            <img loading="lazy" src="assets/img/product/img_163.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -5509,7 +5529,7 @@
                 <div class="row mt-none-40">
                     <div class="footer__widget col-lg-3 col-md-6 mt-40">
                         <div class="footer__logo mb-20">
-                            <a href="kedi.html"><img src="assets/img/logo/logo-2.svg" alt=""></a>
+                            <a href="kedi.html"><img loading="lazy" src="assets/img/logo/logo-2.svg" alt=""></a>
                         </div>
                         <p>Corporate clients and leisure travelers has
                             been relying on Groundlink for dependable
@@ -5517,10 +5537,10 @@
                             service in major cities across World.</p>
                         <div class="apps-img mt-15 ul_li">
                             <div class="app mt-15">
-                                <a href="#!"><img src="assets/img/icon/google_play.png" alt=""></a>
+                                <a href="#!"><img loading="lazy" src="assets/img/icon/google_play.png" alt=""></a>
                             </div>
                             <div class="app mt-15">
-                                <a href="#!"><img src="assets/img/icon/app_store.png" alt=""></a>
+                                <a href="#!"><img loading="lazy" src="assets/img/icon/app_store.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -5554,7 +5574,7 @@
                         <ul class="footer__post">
                             <li class="footer__post-item tx-post ul_li">
                                 <div class="post-thumb">
-                                    <a href="#!"><img src="assets/img/news/img_04.jpg" alt=""></a>
+                                    <a href="#!"><img loading="lazy" src="assets/img/news/img_04.jpg" alt=""></a>
                                     <span class="post-number">01</span>
                                 </div>
                                 <div class="post-content">
@@ -5565,7 +5585,7 @@
                             </li>
                             <li class="footer__post-item tx-post ul_li">
                                 <div class="post-thumb">
-                                    <a href="#!"><img src="assets/img/news/img_05.jpg" alt=""></a>
+                                    <a href="#!"><img loading="lazy" src="assets/img/news/img_05.jpg" alt=""></a>
                                     <span class="post-number">02</span>
                                 </div>
                                 <div class="post-content">
@@ -5576,7 +5596,7 @@
                             </li>
                             <li class="footer__post-item tx-post ul_li">
                                 <div class="post-thumb">
-                                    <a href="#!"><img src="assets/img/news/img_06.jpg" alt=""></a>
+                                    <a href="#!"><img loading="lazy" src="assets/img/news/img_06.jpg" alt=""></a>
                                     <span class="post-number">03</span>
                                 </div>
                                 <div class="post-content">
@@ -5601,7 +5621,7 @@
                     <a href="#!"><i class="fab fa-pinterest"></i></a>
                 </div>
                 <div class="payment_method mt-15">
-                    <img src="assets/img/bg/payment_method.png" alt="">
+                    <img loading="lazy" src="assets/img/bg/payment_method.png" alt="">
                 </div>
             </div>
         </div>
@@ -5614,7 +5634,7 @@
             <div class="newsletter-popup-ineer">
                 <button class="btn newsletter-close-btn"><i class="fal fa-times"></i></button>
                 <div class="img-holder">
-                    <img src="assets/img/bg/newsletter.jpg" alt>
+                    <img loading="lazy" src="assets/img/bg/newsletter.jpg" alt>
                 </div>
                 <div class="details">
                     <h4>Get 45% discount shipped to your inbox</h4>
@@ -5657,21 +5677,40 @@
     <script src="assets/js/jquery-3.5.1.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/slick.js"></script>
-    <script src="assets/js/backToTop.js"></script>
-    <script src="assets/js/uikit.min.js"></script>
-    <script src="assets/js/resize-sensor.min.js"></script>
-    <script src="assets/js/theia-sticky-sidebar.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
+    <script defer src="assets/js/backToTop.js"></script>
+    <script defer src="assets/js/uikit.min.js"></script>
+    <script defer src="assets/js/resize-sensor.min.js"></script>
+    <script defer src="assets/js/theia-sticky-sidebar.min.js"></script>
+    <script defer src="assets/js/wow.min.js"></script>
     <script src="assets/js/jqueryui.js"></script>
-    <script src="assets/js/touchspin.js"></script>
-    <script src="assets/js/countdown.js"></script>
+    <script defer src="assets/js/touchspin.js"></script>
+    <script defer src="assets/js/countdown.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/metisMenu.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script defer src="assets/js/metisMenu.min.js"></script>
+    <script defer src="assets/js/main.js"></script>
     <!-- Clinical Ecosystem Bindings -->
-    <script src="assets/js/currency-manager.js"></script>
-    <script src="assets/js/products.js"></script>
-<script src="assets/js/auth.js"></script></body>
+    <script defer src="assets/js/currency-manager.js"></script>
+    <script defer src="assets/js/products.js"></script>
+<script defer src="assets/js/auth.js"></script>
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
+</body>
 
 </html>
 

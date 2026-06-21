@@ -7,7 +7,7 @@ const __dirname_root = path.join(__dirname, '..');
  * and injects them into every HTML page.
  */
 const fs   = require('fs');
-const BASE = 'https://www.auraherbs.netlify.app';
+const BASE = 'https://kedicare.netlify.app';
 const TODAY = new Date().toISOString().split('T')[0];
 
 // ─── PRODUCT CATALOGUE ────────────────────────────────────────────────────────

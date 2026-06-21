@@ -6,17 +6,17 @@ const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.auraherbs.com/kedi.html</loc>
+    <loc>https://kedicare.netlify.app/kedi.html</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://www.auraherbs.com/assets/img/promo/kedi-2026-award.jpg</image:loc>
+      <image:loc>https://kedicare.netlify.app/assets/img/promo/kedi-2026-award.jpg</image:loc>
       <image:title>KEDI 2026 Perform and Win Award</image:title>
       <image:caption>Register and upgrade to Three Star Consultant to win amazing prizes!</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.auraherbs.com/assets/img/promo/kedi-promo-2.jpg</image:loc>
+      <image:loc>https://kedicare.netlify.app/assets/img/promo/kedi-promo-2.jpg</image:loc>
       <image:title>KEDI 2026 Perform and Win Award - Placement Details</image:title>
       <image:caption>Win TVs, Refrigerators, Air Conditioners, and more!</image:caption>
     </image:image>
@@ -36,8 +36,8 @@ const promoSchema = `
   "name": "KEDI 2026 Perform and Win Award",
   "description": "Register and upgrade to Three Star Consultant to win amazing prizes including TVs, Refrigerators, Air Conditioners and more! Plus Instant Upgrade Awards.",
   "image": [
-    "https://www.auraherbs.com/assets/img/promo/kedi-2026-award.jpg",
-    "https://www.auraherbs.com/assets/img/promo/kedi-promo-2.jpg"
+    "https://kedicare.netlify.app/assets/img/promo/kedi-2026-award.jpg",
+    "https://kedicare.netlify.app/assets/img/promo/kedi-promo-2.jpg"
   ],
   "startDate": "2026-03-10T00:00:00+01:00",
   "endDate": "2026-05-31T23:59:59+01:00",
@@ -51,7 +51,7 @@ const promoSchema = `
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://www.auraherbs.com/kedi.html",
+    "url": "https://kedicare.netlify.app/kedi.html",
     "price": "0",
     "priceCurrency": "NGN",
     "availability": "https://schema.org/InStock",
@@ -61,7 +61,7 @@ const promoSchema = `
   "organizer": {
     "@type": "Organization",
     "name": "Kedi Healthcare",
-    "url": "https://www.auraherbs.com"
+    "url": "https://kedicare.netlify.app"
   }
 }
 </script>

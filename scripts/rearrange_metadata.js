@@ -2,7 +2,7 @@
 const __dirname_root = path.join(__dirname, '..');
 const fs = require('fs');
 const ROOT = __dirname_root;
-const BASE_URL = 'https://www.auraherbs.com';
+const BASE_URL = 'https://kedicare.netlify.app';
 
 function rearrangeMetadata(filePath, fileName) {
     if (!fs.existsSync(filePath)) return;

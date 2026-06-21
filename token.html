@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Unlock Medical Tools – Kedi Health</title>
+  <style>
+    body {font-family: 'Inter', sans-serif; background:#111; color:#e5e7eb; display:flex; align-items:center; justify-content:center; height:100vh; margin:0;}
+    .card {background:#1f2937; padding:32px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3); max-width:400px; width:100%; text-align:center;}
+    input {width:100%; padding:10px 12px; margin-top:12px; border:none; border-radius:6px; background:#374151; color:#fff; font-size:14px;}
+    button {margin-top:16px; padding:12px 20px; background:#10b981; color:#fff; border:none; border-radius:6px; cursor:pointer; font-weight:600; width:100%;}
+    a {color:#10b981; text-decoration:none;}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Enter Unlock Token</h2>
+    <p>Provide the token given to you to access the full list of medical tools.</p>
+    <input type="text" id="tokenInput" placeholder="Enter token here" />
+    <button onclick="saveToken()">Unlock</button>
+    <p style="margin-top:12px; font-size:12px; color:#9ca3af;">After unlocking you will be redirected to the AI Doctor page.</p>
+    <p><a href="ai-doctor.html">← Back to AI Doctor</a></p>
+  </div>
+  <script>
+    function saveToken(){
+      const token=document.getElementById('tokenInput').value.trim();
+      if(!token){alert('Please enter a token.');return;}
+      localStorage.setItem('token',token);
+      localStorage.setItem('tokenTime',Date.now().toString());
+      // redirect to AI Doctor page
+      window.location.href='ai-doctor.html';
+    }
+  </script>
+</body>
+</html>

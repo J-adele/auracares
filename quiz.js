@@ -922,7 +922,7 @@ function generateReportContent() {
     });
     report += `\n──────────────────────────────────────────────\n`;
     report += ` Powered by Aura Herbs Clinical Engine\n`;
-    report += ` Contact: 0901 509 2132 | auraherbs.netlify.app\n`;
+    report += ` Contact: 0901 509 2132 | https://kedicare.netlify.app\n`;
     report += `──────────────────────────────────────────────\n`;
     return report;
 }

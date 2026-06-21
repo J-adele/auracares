@@ -12,7 +12,7 @@
   const API = window.KEDI_EMAIL_API || 
               (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
               ? 'http://localhost:3003/api/email' 
-              : 'https://www.auraherbs.com/api/email');
+              : 'https://kedicare.netlify.app/api/email');
 
   /* ── Inline toast (reuses KediNotify if loaded) ──── */
   function toast(type, msg) {

@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/protocols/protocol-cp33.html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Complete Cardio Recovery Synergy Pack | Aura Herbs Clinical Portal</title>
     <meta name="description" content="Absolute total heart and circulatory regeneration protocol.">
@@ -11,7 +20,7 @@
     <meta property="og:type" content="product">
     <meta property="og:site_name" content="Aura Herbs">
     <meta property="og:locale" content="en_US">
-    <meta property="og:url" content="https://auraherbs.ai/protocol-cp33.html">
+    <meta property="og:url" content="https://kedicare.netlify.app/protocols/protocol-cp33.html">
     <meta property="og:title" content="Complete Cardio Recovery Synergy Pack">
     <meta property="og:description" content="Absolute total heart and circulatory regeneration protocol.">
     <meta property="og:image" content="https://auraherbs.ai/assets/img/product/Cardibetter.png">
@@ -85,6 +94,17 @@
             line-height: 1.6;
         }
     </style>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body>
     <div class="container">
@@ -93,5 +113,24 @@
         <h1>Initializing Clinical Protocol</h1>
         <p>Connecting to Aura Herbs clinical intelligence node. Redirecting you to the verified protocol interface...</p>
     </div>
+
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
 </body>
 </html>

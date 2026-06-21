@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Aura Cares Health Portal",
+  "description": "AI-powered health diagnostics and clinical herbal protocols.",
+  "url": "https://kedicare.netlify.app",
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "https://auraherbs.ai/assets/img/product/kedi.jpg"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Aura Cares"
+  }
+}

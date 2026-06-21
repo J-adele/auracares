@@ -2,12 +2,21 @@
 <html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/franchise.html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Franchise Opportunity | Aura Herbs Clinical Healthcare</title>
     <meta name="description" content="Join the Aura Herbs clinical franchise network. Build a profitable healthcare business with Kedi-J protocols, full training, and digital health tools.">
     
     <!-- Primary Styles -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/main.css">
@@ -50,8 +59,8 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Aura Herbs",
-  "url": "https://www.auraherbs.netlify.app",
-  "logo": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg",
+  "url": "https://kedicare.netlify.app",
+  "logo": "https://kedicare.netlify.app/assets/img/logo/logo.svg",
   "sameAs": [
     "https://www.facebook.com/auraherbs",
     "https://twitter.com/auraherbs"
@@ -70,10 +79,10 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Aura Herbs",
-  "url": "https://www.auraherbs.netlify.app",
+  "url": "https://kedicare.netlify.app",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.auraherbs.netlify.app/shop.html?q={search_term_string}",
+    "target": "https://kedicare.netlify.app/shop.html?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -91,7 +100,7 @@
     "addressCountry": "NG"
   },
   "telephone": "+234-901-509-2132",
-  "url": "https://www.auraherbs.netlify.app/kedicenter.html",
+  "url": "https://kedicare.netlify.app/kedicenter.html",
   "openingHours": "Mo-Fr 08:00-18:00",
   "priceRange": "₦₦"
 }
@@ -105,18 +114,29 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.auraherbs.netlify.app/kedi.html"
+      "item": "https://kedicare.netlify.app/kedi.html"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Aura Herbs Franchise Program",
-      "item": "https://www.auraherbs.netlify.app/franchise.html"
+      "item": "https://kedicare.netlify.app/franchise.html"
     }
   ]
 }
 </script>
 <!-- AURA-SCHEMA-END -->
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body class="bg-slate-50">
 
@@ -161,7 +181,7 @@
                 <div class="header__middle ul_li_between">
                     <div class="header__logo">
                         <a href="kedi.html">
-                            <img src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
+                            <img loading="lazy" src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
                         </a>
                     </div>
                     <div class="header-date">
@@ -177,7 +197,7 @@
                     </div>
                     <div class="add">
                         <a href="shop.html">
-                            <img src="assets/img/product/beaty soap.jpeg" alt="Kedi Soap" style="max-height: 80px; width: auto; object-fit: contain;">
+                            <img loading="lazy" src="assets/img/product/beaty soap.jpeg" alt="Kedi Soap" style="max-height: 80px; width: auto; object-fit: contain;">
                         </a>
                     </div>
                     <div class="d-none d-lg-block">
@@ -185,7 +205,7 @@
                             <div class="header__language style-2 mr-25">
                                 <ul>
                                     <li>
-                                        <a href="#!" class="lang-btn"><img src="assets/img/icon/usd_flag.png" alt=""> English <i class="far fa-chevron-down"></i></a>
+                                        <a href="#!" class="lang-btn"><img loading="lazy" src="assets/img/icon/usd_flag.png" alt=""> English <i class="far fa-chevron-down"></i></a>
                                         <ul class="lang_sub_list">
                                             <li><a href="#">English</a></li>
                                             <li><a href="#">Yoruba</a></li>
@@ -209,11 +229,11 @@
                     <div class="header__main ul_li">
                         <div class="header__logo">
                             <a href="kedi.html">
-                                <img src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
+                                <img loading="lazy" src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
                             </a>
                         </div>
                         <div class="header__category">
-                            <a class="header__category-nav" href="#!"><img class="bar" src="assets/img/icon/bar.svg" alt="">Browse Categories<i class="fas fa-chevron-down"></i></a>
+                            <a class="header__category-nav" href="#!"><img loading="lazy" class="bar" src="assets/img/icon/bar.svg" alt="">Browse Categories<i class="fas fa-chevron-down"></i></a>
                         </div>
                         <div class="hamburger_menu d-lg-none">
                             <a href="javascript:void(0);" class="active">
@@ -233,7 +253,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="kedi.html">
-                                                                    <img src="assets/img/demo/demo-1.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-1.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 1</h3>
@@ -241,7 +261,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="home-2.html">
-                                                                    <img src="assets/img/demo/demo-2.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-2.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 2</h3>
@@ -249,7 +269,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="home-3.html">
-                                                                    <img src="assets/img/demo/demo-3.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-3.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 3</h3>
@@ -301,17 +321,17 @@
                         <div class="header__main-right ul_li">
                             <div class="header__icons ul_li mr-15">
                                 <div class="icon">
-                                    <a href="account.html"><img src="assets/img/icon/user.svg" alt="Account"></a>
+                                    <a href="account.html"><img loading="lazy" src="assets/img/icon/user.svg" alt="Account"></a>
                                 </div>
                                 <div class="icon wishlist-icon">
                                     <a href="#!" aria-label="Wishlist">
-                                        <img src="assets/img/icon/heart.svg" alt="Wishlist">
+                                        <img loading="lazy" src="assets/img/icon/heart.svg" alt="Wishlist">
                                         <span class="wish-count">0</span>
                                     </a>
                                 </div>
                                 <div class="icon cart-icon">
                                     <a href="cart.html" aria-label="Cart">
-                                        <img src="assets/img/icon/cart.svg" alt="Cart">
+                                        <img loading="lazy" src="assets/img/icon/cart.svg" alt="Cart">
                                         <span class="cart-count">0</span>
                                     </a>
                                 </div>
@@ -333,7 +353,7 @@
 
     <!-- Hero Section -->
     <section class="relative h-[600px] flex items-center overflow-hidden">
-        <img src="franchise_hero_1778233773835.png" alt="Franchise Opportunity" class="absolute inset-0 w-full h-full object-cover">
+        <img loading="lazy" src="franchise_hero_1778233773835.png" alt="Franchise Opportunity" class="absolute inset-0 w-full h-full object-cover">
         <div class="absolute inset-0 hero-overlay"></div>
         <div class="container relative z-10 mx-auto px-4">
             <div class="max-w-3xl">
@@ -367,8 +387,8 @@
         <div class="bg-white rounded-2xl shadow-xl p-6 border border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-6">
             <div class="flex items-center gap-4">
                 <div class="flex -space-x-3">
-                    <img src="assets/img/promo/kedi-2026-award.jpg" class="w-12 h-12 rounded-full border-2 border-white" alt="Promo">
-                    <img src="assets/img/promo/kedi-promo-2.jpg" class="w-12 h-12 rounded-full border-2 border-white" alt="Promo">
+                    <img loading="lazy" src="assets/img/promo/kedi-2026-award.jpg" class="w-12 h-12 rounded-full border-2 border-white" alt="Promo">
+                    <img loading="lazy" src="assets/img/promo/kedi-promo-2.jpg" class="w-12 h-12 rounded-full border-2 border-white" alt="Promo">
                 </div>
                 <div>
                     <h4 class="font-bold text-slate-900">KEDI 2026 Perform & Win Award</h4>
@@ -436,7 +456,7 @@
                 </div>
                 <div class="lg:w-1/2 relative">
                     <div class="bg-emerald-600 rounded-[40px] p-2 rotate-2 shadow-2xl">
-                        <img src="assets/img/bg/newsletter.jpg" class="rounded-[38px] w-full -rotate-2" alt="Digital Platform">
+                        <img loading="lazy" src="assets/img/bg/newsletter.jpg" class="rounded-[38px] w-full -rotate-2" alt="Digital Platform">
                     </div>
                     <div class="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-xl border border-emerald-100 hidden md:block">
                         <div class="flex items-center gap-3 mb-2">
@@ -699,7 +719,7 @@
                 <div class="bg-slate-50 p-10 rounded-3xl flex flex-col justify-between">
                     <p class="text-xl text-slate-700 italic mb-8 leading-relaxed" data-base-price="50">"I transitioned from a traditional retail business to an Aura Herbs franchise. The ability to offer real clinical solutions changed my monthly revenue from &#8358;50k to over &#8358;400k. The system works."</p>
                     <div class="flex items-center gap-4">
-                        <img src="assets/img/avatar/img_02.jpg" class="w-14 h-14 rounded-full object-cover" alt="Partner">
+                        <img loading="lazy" src="assets/img/avatar/img_02.jpg" class="w-14 h-14 rounded-full object-cover" alt="Partner">
                         <div>
                             <div class="font-bold text-slate-950">Amara Okonkwo</div>
                             <div class="text-xs text-emerald-600 font-bold uppercase tracking-widest">Lagos Pro Franchisee</div>
@@ -709,7 +729,7 @@
                 <div class="bg-emerald-950 p-10 rounded-3xl flex flex-col justify-between text-white">
                     <p class="text-xl text-emerald-100/80 italic mb-8 leading-relaxed">"As a health professional, I wanted a business that maintained clinical integrity. Aura Herbs protocols are world-class, and the master license has allowed me to empower 12 sub-franchisees in Abuja."</p>
                     <div class="flex items-center gap-4">
-                        <img src="assets/img/avatar/img_02.jpg" class="w-14 h-14 rounded-full object-cover" alt="Partner">
+                        <img loading="lazy" src="assets/img/avatar/img_02.jpg" class="w-14 h-14 rounded-full object-cover" alt="Partner">
                         <div>
                             <div class="font-bold text-white">Dr. Chidi Eze</div>
                             <div class="text-xs text-emerald-400 font-bold uppercase tracking-widest">Abuja Master Licensee</div>
@@ -870,12 +890,31 @@
         </div>
     </footer>
 
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/currency-manager.js"></script>
-    <script src="assets/js/cart.js"></script>
+    <script defer src="assets/js/main.js"></script>
+    <script defer src="assets/js/currency-manager.js"></script>
+    <script defer src="assets/js/cart.js"></script>
     <script src="assets/js/aeo-schema.js" defer></script>
     <script src="assets/js/mobile-wa.js" defer></script>
-<script src="assets/js/auth.js"></script></body>
+<script defer src="assets/js/auth.js"></script>
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
+</body>
 </html>
 
 

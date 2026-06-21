@@ -1,5 +1,5 @@
 {
-  "name": "auracares",
+  "name": "kedicare",
   "version": "1.0.0",
   "description": "Kedi Healthcare Clinical Platform",
   "main": "index.html",
@@ -9,7 +9,8 @@
     "build:seo": "node scripts/build_seo_pages.js",
     "build:products": "node scripts/rebuild_all_products.js",
     "build:optimise": "node scripts/final_optimise.js",
-    "build": "npm run build:qbank && npm run build:ai-doctor && npm run build:seo && npm run build:products && npm run build:optimise",
+    "build:urls": "node scripts/optimise_and_update_urls.js",
+    "build": "npm run build:qbank && npm run build:ai-doctor && npm run build:seo && npm run build:products && npm run build:optimise && npm run build:urls",
     "dev": "netlify dev"
   },
   "devDependencies": {

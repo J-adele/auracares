@@ -9,7 +9,7 @@ const __dirname_root = path.join(__dirname, '..');
  * - Google/Bing Search Schema (Sitelinks Searchbox)
  */
 const fs = require('fs');
-const BASE = 'https://www.auraherbs.netlify.app';
+const BASE = 'https://kedicare.netlify.app';
 
 const shortTailKeywords = ["Aura Herbs", "Clinical Diagnostics", "Herbal Medicine", "Health Supplements"];
 const longTailKeywords = [

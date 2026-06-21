@@ -5,6 +5,15 @@
 
     <!-- PRIMARY METADATA -->
     <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/quiz.html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aura Herbs Clinical Assessment | AI Health Quiz & Protocol Generator</title>
     <meta name="description" content="Aura Herbs Clinical delivers clinical AI-powered health diagnostics, product intelligence, and herbal protocol recommendations across nutrition, vitality, pharma, and wellness.">
@@ -12,14 +21,14 @@
     
     <!-- ADVANCED SEO & SEARCH STRATEGY -->
     <meta name="robots" content="index, follow, max-image-preview:large">
-    <link rel="canonical" href="https://www.auraherbs.netlify.app/quiz.html">
+    <link rel="canonical" href="https://kedicare.netlify.app/quiz.html">
 
     <!-- Assets -->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/kedi-optimise.css">
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -192,17 +201,17 @@
   "@type": "VideoObject",
   "name": "Aura Herbs Full-Body Health Assessment",
   "description": "Interactive diagnostic quiz and clinical scoring system.",
-  "thumbnailUrl": "https://www.auraherbs.netlify.app/assets/img/product/CELLO Q10.jpg",
+  "thumbnailUrl": "https://kedicare.netlify.app/assets/img/product/CELLO Q10.jpg",
   "uploadDate": "2026-06-12T00:00:00+00:00",
   "duration": "PT300S",
-  "contentUrl": "https://www.auraherbs.netlify.app/assets/video/aura-herbs-full-body-health-assessment.mp4",
-  "embedUrl": "https://www.auraherbs.netlify.app/quiz.html",
+  "contentUrl": "https://kedicare.netlify.app/assets/video/aura-herbs-full-body-health-assessment.mp4",
+  "embedUrl": "https://kedicare.netlify.app/quiz.html",
   "publisher": {
     "@type": "Organization",
     "name": "Aura Herbs",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg"
+      "url": "https://kedicare.netlify.app/assets/img/logo/logo.svg"
     }
   }
 }
@@ -214,8 +223,8 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Aura Herbs",
-  "url": "https://www.auraherbs.netlify.app",
-  "logo": "https://www.auraherbs.netlify.app/assets/img/logo/logo.svg",
+  "url": "https://kedicare.netlify.app",
+  "logo": "https://kedicare.netlify.app/assets/img/logo/logo.svg",
   "sameAs": [
     "https://www.facebook.com/auraherbs",
     "https://twitter.com/auraherbs"
@@ -234,10 +243,10 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Aura Herbs",
-  "url": "https://www.auraherbs.netlify.app",
+  "url": "https://kedicare.netlify.app",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.auraherbs.netlify.app/shop.html?q={search_term_string}",
+    "target": "https://kedicare.netlify.app/shop.html?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -255,7 +264,7 @@
     "addressCountry": "NG"
   },
   "telephone": "+234-901-509-2132",
-  "url": "https://www.auraherbs.netlify.app/kedicenter.html",
+  "url": "https://kedicare.netlify.app/kedicenter.html",
   "openingHours": "Mo-Fr 08:00-18:00",
   "priceRange": "₦₦"
 }
@@ -269,18 +278,29 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.auraherbs.netlify.app/kedi.html"
+      "item": "https://kedicare.netlify.app/kedi.html"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Aura Health Quiz – Clinical Diagnostics",
-      "item": "https://www.auraherbs.netlify.app/quiz.html"
+      "item": "https://kedicare.netlify.app/quiz.html"
     }
   ]
 }
 </script>
 <!-- AURA-SCHEMA-END -->
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 
 <body>
@@ -411,15 +431,34 @@
         </div>
     </footer>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-    <script src="assets/js/currency-manager.js"></script>
-    <script src="assets/js/products.js"></script>
-    <script src="quiz.js"></script>
-    <script src="assets/js/cart.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script defer src="assets/js/currency-manager.js"></script>
+    <script defer src="assets/js/products.js"></script>
+    <script defer src="quiz.js"></script>
+    <script defer src="assets/js/cart.js"></script>
     <script src="assets/js/aeo-schema.js" defer></script>
     <script src="assets/js/mobile-wa.js" defer></script>
     <script src="assets/js/kedi-notify.js" defer></script>
     <script src="assets/js/kedi-email.js" defer></script>
-    <script src="assets/js/auth.js"></script>
+    <script defer src="assets/js/auth.js"></script>
+
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
 </body>
 </html>

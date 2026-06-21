@@ -27,7 +27,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "",
                 qna: [{
                     question: "How often should I take Small Reishi?",
                     answer: "Typically, Small Reishi is taken once or twice daily, but always refer to the product packaging for precise dosage instructions or consult a healthcare professional."
@@ -44,13 +44,13 @@
                 price: "₦37,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: [{
                     question: "How often should I take Reishi?",
                     answer: "Typically, Reishi is taken once or twice daily, but always refer to the product packaging for precise dosage instructions or consult a healthcare professional."
                 }, {
                     question: "Is Reishi good for liver health?",
-                    answer: "Yes, Reishi is well-known for its hepatoprotective properties and can support liver function."
+                    answer: "Yes, Reish  is well-known for its hepatoprotective properties and can support liver function. https://kedicare.netlify.app/shop-single.html?id=p1"
                 }]
             }, {
                 id: "packet-re-vive",
@@ -61,7 +61,7 @@
                 price: "₦17,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: [{
                     question: "What are the main benefits of Packet Re-Vive?",
                     answer: "Packet Re-Vive primarily enhances male sexual function, increases libido, and improves overall vitality."
@@ -78,7 +78,7 @@
                 price: "₦48,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: [{
                     question: "What are the main benefits of Re-Vive?",
                     answer: "Re-Vive primarily enhances male sexual function, increases libido, and improves overall vitality."
@@ -95,7 +95,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "cordy-active",
@@ -106,7 +106,7 @@
                 price: "₦25,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-cordy-royal-jelly",
@@ -117,7 +117,7 @@
                 price: "₦14,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "cordy-royal-jelly",
@@ -128,7 +128,7 @@
                 price: "₦37,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-golden-hypha",
@@ -139,7 +139,7 @@
                 price: "₦20,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "golden-hypha",
@@ -150,7 +150,7 @@
                 price: "₦51,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "p13",
@@ -161,7 +161,7 @@
                 price: "₦6,500,000",
                 type: "Medical Devices",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: [{
                     question: "What makes the VIP Massage Chair different from regular chairs?",
                     answer: "It is a clinical-grade device featuring zero-gravity positioning, therapeutic infrared heating, and AI body scanning to deliver precise, systemic recovery."
@@ -175,7 +175,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "diawell",
@@ -186,7 +186,7 @@
                 price: "₦18,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: [{
                     question: "Can Diawell replace my diabetes medication?",
                     answer: "No, Diawell is a supplement and should not replace prescribed diabetes medication. Always consult your doctor before making any changes to your medication."
@@ -200,7 +200,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "golden-six",
@@ -211,7 +211,7 @@
                 price: "₦16,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "cello-q10",
@@ -222,7 +222,7 @@
                 price: "₦36,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "lycovite",
@@ -233,7 +233,7 @@
                 price: "₦26,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-magilim",
@@ -244,7 +244,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "magilim",
@@ -255,7 +255,7 @@
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-jointeez",
@@ -266,7 +266,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "jointeez",
@@ -277,7 +277,7 @@
                 price: "₦16,800",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-memory-24-7",
@@ -288,7 +288,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "memory-24-7-capsule",
@@ -299,7 +299,7 @@
                 price: "₦33,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-eye-beta",
@@ -310,7 +310,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "eye-beta-capsule",
@@ -321,7 +321,7 @@
                 price: "₦27,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-gastrifort",
@@ -332,7 +332,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "gastrifort-capsule",
@@ -343,7 +343,7 @@
                 price: "₦44,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-constilease",
@@ -354,7 +354,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "constilease",
@@ -365,7 +365,7 @@
                 price: "₦28,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-vigor-essential",
@@ -376,7 +376,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "vigor-essential",
@@ -387,7 +387,7 @@
                 price: "₦25,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "small-gynapharm",
@@ -398,7 +398,7 @@
                 price: "₦15,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "gynapharm-capsule",
@@ -409,7 +409,7 @@
                 price: "₦39,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "qinghao",
@@ -420,7 +420,7 @@
                 price: "₦10,680",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "reishi-blood-tonic",
@@ -431,7 +431,7 @@
                 price: "₦19,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "hydrogen-cup",
@@ -442,7 +442,7 @@
                 price: "₦75,000",
                 type: "Devices",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: [{
                     question: "What are the benefits of hydrogen water?",
                     answer: "Hydrogen water is believed to have antioxidant properties, reduce inflammation, and improve cellular health."
@@ -459,7 +459,7 @@
                 price: "₦5,500",
                 type: "Soaps",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app//blog/sulphur-anti-acne-soap",
+                blogLink: "https://kedicare.netlify.app//blog/sulphur-anti-acne-soap",
                 qna: [{
                     question: "How does Sulphur Anti-Acne Soap work?",
                     answer: "Sulfur helps to dry out the skin, remove dead skin cells, and has antibacterial properties that can reduce acne breakouts."
@@ -473,7 +473,7 @@
                 price: "₦5,500",
                 type: "Soaps",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "nano-silver-antibacterial-soap",
@@ -484,7 +484,7 @@
                 price: "₦5,500",
                 type: "Soaps",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "gum-care-toothpaste",
@@ -495,7 +495,7 @@
                 price: "₦7,200",
                 type: "Oral Care",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "colon-cleanse",
@@ -506,7 +506,7 @@
                 price: "₦19,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "kedi-coffee",
@@ -517,7 +517,7 @@
                 price: "₦30,000",
                 type: "Beverages",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "blood-circulatory-massager",
@@ -528,205 +528,205 @@
                 price: "₦624,000",
                 type: "Devices",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "haemocare",
                 name: "Haemocare (Big/60c)",
                 keywords: /haemocare|haemocare/i,
                 image: "assets/img/product/refresh-tea.png",
-                description: "Premium Kedi Healthcare clinical protocol: Haemocare.",
+                description: "Premium Kedicare clinical protocol: Haemocare.",
                 price: "₦24,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://what-is-your-health-challenge.netlify.app/",
+                blogLink: "https://kedicare.netlify.app/",
                 qna: []
             }, {
                 id: "cardibetter",
                 name: "Cardibetter (Big/60c)",
                 keywords: /cardibetter|cardibetter/i,
                 image: "assets/img/product/Cardibetter.png",
-                description: "Premium Kedi Healthcare clinical protocol: Cardibetter.",
+                description: "Premium Kedicare clinical protocol: Cardibetter.",
                 price: "₦34,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "v-ca",
                 name: "V-Ca (Big/60c)",
                 keywords: /v ca|v-ca/i,
                 image: "assets/img/product/img_10.png",
-                description: "Premium Kedi Healthcare clinical protocol: V-Ca.",
+                description: "Premium Kedicare clinical protocol: V-Ca.",
                 price: "₦12,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "7-layer-sanitary-pad",
                 name: "7 Layer Sanitary Pad",
                 keywords: /7 layer sanitary pad|7 layer sanitary pad/i,
                 image: "assets/img/product/img_01.png",
-                description: "Premium Kedi Healthcare clinical protection for women.",
+                description: "Premium Kedicare clinical protection for women.",
                 price: "₦3,240",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "calmazine",
                 name: "Calmazine (Big/60c)",
                 keywords: /calmazine|calmazine/i,
                 image: "assets/img/product/CALMAZINE.png",
-                description: "Premium Kedi Healthcare clinical protocol: Calmazine.",
+                description: "Premium Kedicare clinical protocol: Calmazine.",
                 price: "₦24,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "eve-comfort",
                 name: "Eve Comfort (Big/60c)",
                 keywords: /eve comfort|eve comfort/i,
                 image: "assets/img/product/img_19.png",
-                description: "Premium Kedi Healthcare clinical protocol: Eve Comfort.",
+                description: "Premium Kedicare clinical protocol: Eve Comfort.",
                 price: "₦29,880",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "grapemin-e",
                 name: "Grapemin-E (Big/60c)",
                 keywords: /grapemin e|grapemin-e/i,
                 image: "assets/img/product/img_21.png",
-                description: "Premium Kedi Healthcare clinical protocol: Grapemin-E.",
+                description: "Premium Kedicare clinical protocol: Grapemin-E.",
                 price: "₦33,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "lirich",
                 name: "Lirich (Big/60c)",
                 keywords: /lirich|lirich/i,
                 image: "assets/img/product/LIRICH.png",
-                description: "Premium Kedi Healthcare clinical protocol: Lirich.",
+                description: "Premium Kedicare clinical protocol: Lirich.",
                 price: "₦22,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "mv-women",
                 name: "MV Women (Big/60c)",
                 keywords: /mv women|mv women/i,
                 image: "assets/img/product/MV-WOMEN.png",
-                description: "Premium Kedi Healthcare clinical protocol: MV Women.",
+                description: "Premium Kedicare clinical protocol: MV Women.",
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "multi-vitamin",
                 name: "Multi-Vitamin (Big/60c)",
                 keywords: /multi vitamin|multi-vitamin/i,
                 image: "assets/img/product/Multi-vitamin.jpg",
-                description: "Premium Kedi Healthcare clinical protocol: Multi-Vitamin.",
+                description: "Premium Kedicare clinical protocol: Multi-Vitamin.",
                 price: "₦13,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "prosclick-prostate",
                 name: "Prosclick Prostate (Big/60c)",
                 keywords: /prosclick prostate|prosclick prostate/i,
                 image: "assets/img/product/Prosclick prostate.jpg",
-                description: "Premium Kedi Healthcare clinical protocol: Prosclick Prostate.",
+                description: "Premium Kedicare clinical protocol: Prosclick Prostate.",
                 price: "₦35,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "revive-capsule",
                 name: "Revive (Big/30c)",
                 keywords: /revive|revive/i,
                 image: "assets/img/product/Revive.png",
-                description: "Premium Kedi Healthcare clinical protocol: Revive.",
+                description: "Premium Kedicare clinical protocol: Revive.",
                 price: "₦48,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "salud-herbal",
                 name: "Salud Herbal (Big/60c)",
                 keywords: /salud herbal|salud herbal/i,
                 image: "assets/img/product/Salud herbal.jpg",
-                description: "Premium Kedi Healthcare clinical protocol: Salud Herbal.",
+                description: "Premium Kedicare clinical protocol: Salud Herbal.",
                 price: "₦19,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "ultramega",
                 name: "Ultramega (Big/60c)",
                 keywords: /ultramega|ultramega/i,
                 image: "assets/img/product/ULTRAMEGA.jpg",
-                description: "Premium Kedi Healthcare clinical protocol: Ultramega.",
+                description: "Premium Kedicare clinical protocol: Ultramega.",
                 price: "₦21,600",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "vitagent",
                 name: "Vitagent (Big/60c)",
                 keywords: /vitagent|vitagent/i,
                 image: "assets/img/product/VITAGENT.png",
-                description: "Premium Kedi Healthcare clinical protocol: Vitagent.",
+                description: "Premium Kedicare clinical protocol: Vitagent.",
                 price: "₦31,200",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "vitaprego",
                 name: "Vitaprego (Big/60c)",
                 keywords: /vitaprego|vitaprego/i,
                 image: "assets/img/product/VITAPREGO.jpg",
-                description: "Premium Kedi Healthcare clinical protocol: Vitaprego.",
+                description: "Premium Kedicare clinical protocol: Vitaprego.",
                 price: "₦30,000",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "beauty-soap",
                 name: "Beauty Soap",
                 keywords: /beauty soap|beauty soap/i,
                 image: "assets/img/product/img_02.png",
-                description: "Premium Kedi Healthcare clinical protocol: Beauty Soap.",
+                description: "Premium Kedicare clinical protocol: Beauty Soap.",
                 price: "₦5,400",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
             }, {
                 id: "men-coffee",
                 name: "Men Coffee",
                 keywords: /men coffee|men coffee/i,
                 image: "assets/img/product/kedi.jpg",
-                description: "Premium Kedi Healthcare clinical protocol: Men Coffee.",
+                description: "Premium Kedicare clinical protocol: Men Coffee.",
                 price: "₦13,500",
                 type: "Capsules",
                 buyNowLink: "https://wa.me/message/2349015092132",
-                blogLink: "https://www.auraherbs.netlify.app/shop.html",
+                blogLink: "https://kedicare.netlify.app/shop.html",
                 qna: []
 
 
@@ -805,24 +805,24 @@
                 q: /contact support|customer service|helpline/i,
                 a: "You can contact our support team via email at support@kedihealthcare.com or call us at +234 800 123 4567. You can also reach us via WhatsApp using the link: <a href='https://wa.me/message/2349015092132' target='_blank' class='text-green-600 underline'>Chat on WhatsApp</a>."
             }, {
-                q: /what is kedi healthcare|about kedi healthcare/i,
-                a: "Kedi Healthcare is a leading traditional Chinese medicine (TCM) company in Nigeria, dedicated to providing high-quality herbal and nutritional supplements for various health needs. We focus on natural solutions for overall well-being."
+                q: /what is Kedicare|about Kedicare/i,
+                a: "Kedicare is a leading traditional Chinese medicine (TCM) company in Nigeria, dedicated to providing high-quality herbal and nutritional supplements for various health needs. We focus on natural solutions for overall well-being."
             }, {
-                q: /kedi healthcare products|what products do you offer/i,
-                a: "Kedi Healthcare offers a wide range of natural health products, including supplements for immune support (Reishi), male sexual health (Re-Vive), kidney health (Golden Six), digestive health (Colon Cleanse), energy (Vigor Essential), respiratory health (Cordy Active), weight management (Magilim), and cardiovascular health (Blood Fat Reducing)."
+                q: /Kedicare products|what products do you offer/i,
+                a: "Kedicare offers a wide range of natural health products, including supplements for immune support (Reishi), male sexual health (Re-Vive), kidney health (Golden Six), digestive health (Colon Cleanse), energy (Vigor Essential), respiratory health (Cordy Active), weight management (Magilim), and cardiovascular health (Blood Fat Reducing)."
             }, {
-                q: /kedi healthcare products list|list all products/i,
-                a: "Certainly! Here is a list of Kedi Healthcare products: Reishi, Re-Vive, Golden Six, Colon Cleanse, Vigor Essential, Cordy Active, Magilim, and Blood Fat Reducing. You can ask for details on any of these."
+                q: /Kedicare products list|list all products/i,
+                a: "Certainly! Here is a list of Kedicare products: Reishi, Re-Vive, Golden Six, Colon Cleanse, Vigor Essential, Cordy Active, Magilim, and Blood Fat Reducing. You can ask for details on any of these."
             }, {
-                q: /kedi healthcare products details|tell me about your products/i,
+                q: /Kedicare products details|tell me about your products/i,
                 a: "To get details about a specific product, please ask me about it by name, e.g., 'Tell me about Reishi' or 'What is Re-Vive?'"
             }, {
-                q: /kedi healthcare product prices|how much are your products/i,
+                q: /Kedicare product prices|how much are your products/i,
                 a: "Product prices vary. For example, Reishi is ₦35,000, and Re-Vive is ₦39,000. You can ask me about the price of a specific product."
             }, {
                 q: /how to make money with kedi|kedi business model|become a kedi distributor|kedi income|kedi earnings|kedi opportunity/i,
                 a: `
-                    <p class="mb-2">Kedi Healthcare offers a unique opportunity to improve your health and wealth through its direct selling and multi-level marketing (MLM) business model. Here's how you can make money with Kedi:</p>
+                    <p class="mb-2">Kedicare offers a unique opportunity to improve your health and wealth through its direct selling and multi-level marketing (MLM) business model. Here's how you can make money with Kedi:</p>
                     <ul class="list-disc list-inside mb-4 text-gray-700">
                         <li><strong>Become a Registered Distributor:</strong> The first step is to register as an independent Kedi distributor. This usually involves a small registration fee and purchasing a starter kit.</li>
                         <li><strong>Retail Profit:</strong> You buy Kedi products at a wholesale price and sell them to customers at the retail price. The difference is your immediate profit.</li>
@@ -837,7 +837,7 @@
                         <li><strong>Training and Support:</b> Kedi often provides training, seminars, and support materials to help distributors succeed.</li>
                         <li><strong>Community:</strong> Become part of a network of like-minded individuals.</li>
                     </ul>
-                    <p class="font-semibold text-green-700">To get detailed information on the compensation plan, registration process, and to start your Kedi business, we recommend visiting the official Kedi Healthcare website or contacting their nearest office/distributor directly. You can also reach out to our customer service for general inquiries.</p>
+                    <p class="font-semibold text-green-700">To get detailed information on the compensation plan, registration process, and to start your Kedi business, we recommend visiting the official Kedicare website or contacting their nearest office/distributor directly. You can also reach out to our customer service for general inquiries.</p>
                 `
             }];
 
@@ -1054,7 +1054,7 @@
                         }
 
                         // Send the greeting message first and await its completion
-                        await sendBotMessageWithTyping(`${greeting} ${emoji}! I'm your Kedi Healthcare Assistant. I'm here to help you with:
+                        await sendBotMessageWithTyping(`${greeting} ${emoji}! I'm your Kedicare Assistant. I'm here to help you with:
                             <ul>
                                 <li>Product information and benefits 💊</li>
                                 <li>Insights into various health conditions 🩺</li>
@@ -1290,7 +1290,7 @@
 
                     let recommendedProductsHtml = '';
                     if (condition.recommendedProducts && condition.recommendedProducts.length > 0) {
-                        recommendedProductsHtml += `<h4 class="mt-4 text-lg font-semibold text-gray-800">Kedi Healthcare products that may offer support:</h4>`;
+                        recommendedProductsHtml += `<h4 class="mt-4 text-lg font-semibold text-gray-800">Kedicare products that may offer support:</h4>`;
                         condition.recommendedProducts.forEach(prodName => {
                             const product = products.find(p => p.name === prodName);
                             if (product) {
@@ -1298,7 +1298,7 @@
                             }
                         });
                     } else {
-                        recommendedProductsHtml += `<p class="mt-4 text-gray-600">While Kedi Healthcare products focus on general well-being, for ${condition.name}, it's crucial to follow medical advice. No specific Kedi product directly treats this condition, but general health support products may be beneficial.</p>`;
+                        recommendedProductsHtml += `<p class="mt-4 text-gray-600">While Kedicare products focus on general well-being, for ${condition.name}, it's crucial to follow medical advice. No specific Kedi product directly treats this condition, but general health support products may be beneficial.</p>`;
                     }
 
                     // Generate image tags for all images in the array
@@ -1445,7 +1445,7 @@
                             if (item.type === 'Soaps') {
                                 const otherSoaps = products.filter(p => p.type === 'Soaps' && p.id !== item.id); // Use ID for uniqueness
                                 if (otherSoaps.length > 0) {
-                                    responseHtml += `<h4 class="mt-4 text-lg font-semibold text-gray-800">You might also be interested in these other Kedi Healthcare soaps:🧼</h4>`; // Section heading with emoji
+                                    responseHtml += `<h4 class="mt-4 text-lg font-semibold text-gray-800">You might also be interested in these other Kedicare soaps:🧼</h4>`; // Section heading with emoji
                                     otherSoaps.forEach(soap => {
                                         responseHtml += createProductCardHtml(soap);
                                         suggestions.push({
@@ -1887,7 +1887,7 @@
                             }, {});
 
                             let productHtml = `<h3 class="text-xl font-bold text-purple-700 mb-4">Personalized Product Recommendations: ✨</h3>`; // Section heading with emoji
-                            productHtml += `<p class="mb-4">Based on your health goal of "${healthGoal}", here are some Kedi Healthcare products you might find beneficial:</p>`;
+                            productHtml += `<p class="mb-4">Based on your health goal of "${healthGoal}", here are some Kedicare products you might find beneficial:</p>`;
                             for (const type in groupedProducts) {
                                 productHtml += `<h4 class="text-lg font-semibold text-purple-600 mt-4 mb-2">${type}</h4>`;
                                 groupedProducts[type].forEach(product => {
@@ -1901,7 +1901,7 @@
                             productHtml += `<small class="text-gray-500"><em>Please note: These recommendations are based on general health goals and are not a substitute for professional medical advice. Always consult a healthcare professional for personalized guidance.</em></small>`;
                             await sendBotMessageWithTyping(productHtml);
                         } else {
-                            await sendBotMessageWithTyping("I couldn't find specific product recommendations for that health goal in my current database. Kedi Healthcare has many products for general well-being. Would you like to see a list of all products or get general health tips?");
+                            await sendBotMessageWithTyping("I couldn't find specific product recommendations for that health goal in my current database. Kedicare has many products for general well-being. Would you like to see a list of all products or get general health tips?");
                             suggestions.push({
                                 text: "List all products",
                                 type: "text"
@@ -2167,3 +2167,855 @@ async function respondToUser(message) {
                 }
             }
         })();
+
+## Health Disease
+## health-seo-package/content/disease-guides Disease
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/acidreflux.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/acne.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/addisons.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/adhd.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/alopecia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/alzheimmers.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/anemia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/anxiety.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/appendicitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/arrhythmia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/asthma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/athletesfoot.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/autism.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/backpain.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/bacterialvaginosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/bipolardisorder.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/bladdercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/botulism.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/braintumor.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/breastcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/breastcysts.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/campylobacter.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/candida.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/capaltunnel.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cataracts.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/celiacdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cerebralpalsy.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cervicaldysplasia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chickenpox.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chikungunya.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/childrenhealth-seo-package/content/disease-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chlamydia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cholera.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chronicbronchitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chronicfatique.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chronickidneydisease.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/chronicpain.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/coldscores.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/colorectalcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/conjunctivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/constipation.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/coronaryartery.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/covid-19recovery.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/crohnsdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cushings.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/cysticfibrosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/dandruff.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/dementia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/denguefever.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/depression.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/detox.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/diabeticretinipathy.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/diarrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/diphtheria.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/downsyndrome.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/dryeye.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/dvt.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/dysentery.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/e.coli.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ebola.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/eczema.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/endomentriosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/epilepsy.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/erectile-dysfunction.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/esophageal-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ewing-sarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/fatty-liver-disease.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/female-infertility.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/fibroid.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/fibromyalgia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/food-poisoning.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/gallstones.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/gastritis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/gingivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/glaucoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/glioblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/goiter.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/gonorrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/gout.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hair-loss.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/halitosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/heart-failure.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hemophilia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hemorrhoids.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hepatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hernia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/herniated-disc.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/herpes.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/high-cholesterol.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hiv-aids.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hormonal-balance.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hpv.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hypertension.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hyportension.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/hypothroidism.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/IBS.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/immune.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/insomia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/jock-itch.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/kidney.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/kidneycancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/kidneyfailure.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/kidneystones.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/kyphosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/laryngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lassafever.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/leukemia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lice.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/listeria.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/livercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/livercirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lowspermcount.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lungcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lupus.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lymedisease.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/lymphoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/masculardegeneration.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/malaria.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/malevitality.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/measles.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/melanoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/memoryloss.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/menopause.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/menstrualcramps.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/mentalhealth-seo-package/content/disease-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/migraines.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/multiplemyeloma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/mumps.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/musculardystrophy.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/nailfungus.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/neuroblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/non-hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/norovirus.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/nutrition.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/obesity.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/osteoarthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/osteoporosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/osteosarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/otitismedia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ovariancancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ovariancysts.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pancreaticcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pancreatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/parkinson.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pcos.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pepticulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/periodontitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/peripheralartery.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pharyngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pid.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pneumonia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/polio.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/pregnancy.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/premature-ejaculation.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/prostate.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/prostate-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/prostatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/psoriasis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/rabies.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/retinoblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/rheumatoid-arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ringworm.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/rosacea.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/rotavirus.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/rubella.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/salmonella.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/scabies.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/schizzophrenia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/sciatica.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/scoliosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/shingles.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/sicklecell.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/sinusitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/spinabifida.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/stomachcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/strokerecovery.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/sypilis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/testicularcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/tetanus.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/thalasemia.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/thyroidcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/tinnitus.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/tonsillitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/toothdecay.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/trichomoniasis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/tuberculosis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/type2diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/typhoidfever.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/ulcerative-colitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/urinary-tract-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/uterine-polyps.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/vaginitis.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/varicose-veins.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/vertigo.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/vitiligo.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/warts.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/weight.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/whooping-cough.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/wilms-tumor.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/women-health-seo-package/content/disease-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/yeast-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/yellow-fever.md
+- https://kedicare.netlify.app/health-seo-package/content/disease-guides/zika-virus.md
+
+
+
+## health-seo-package/content/prevention-guides 
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/acidreflux.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/acne.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/addisons.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/adhd.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/alopecia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/alzheimmers.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/anemia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/anxiety.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/appendicitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/arrhythmia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/asthma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/athletesfoot.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/autism.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/backpain.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/bacterialvaginosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/bipolardisorder.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/bladdercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/botulism.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/braintumor.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/breastcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/breastcysts.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/campylobacter.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/candida.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/capaltunnel.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cataracts.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/celiacdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cerebralpalsy.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cervicaldysplasia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chickenpox.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chikungunya.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/childrenhealth-seo-package/content/prevention-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chlamydia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cholera.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chronicbronchitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chronicfatique.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chronickidneydisease.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/chronicpain.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/coldscores.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/colorectalcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/conjunctivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/constipation.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/coronaryartery.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/covid-19recovery.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/crohnsdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cushings.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/cysticfibrosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/dandruff.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/dementia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/denguefever.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/depression.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/detox.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/diabeticretinipathy.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/diarrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/diphtheria.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/downsyndrome.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/dryeye.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/dvt.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/dysentery.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/e.coli.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ebola.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/eczema.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/endomentriosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/epilepsy.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/erectile-dysfunction.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/esophageal-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ewing-sarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/fatty-liver-disease.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/female-infertility.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/fibroid.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/fibromyalgia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/food-poisoning.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/gallstones.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/gastritis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/gingivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/glaucoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/glioblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/goiter.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/gonorrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/gout.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hair-loss.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/halitosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/heart-failure.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hemophilia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hemorrhoids.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hepatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hernia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/herniated-disc.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/herpes.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/high-cholesterol.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hiv-aids.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hormonal-balance.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hpv.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hypertension.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hyportension.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/hypothroidism.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/IBS.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/immune.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/insomia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/jock-itch.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/kidney.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/kidneycancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/kidneyfailure.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/kidneystones.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/kyphosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/laryngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lassafever.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/leukemia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lice.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/listeria.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/livercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/livercirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lowspermcount.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lungcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lupus.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lymedisease.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/lymphoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/masculardegeneration.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/malaria.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/malevitality.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/measles.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/melanoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/memoryloss.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/menopause.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/menstrualcramps.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/mentalhealth-seo-package/content/prevention-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/migraines.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/multiplemyeloma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/mumps.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/musculardystrophy.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/nailfungus.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/neuroblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/non-hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/norovirus.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/nutrition.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/obesity.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/osteoarthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/osteoporosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/osteosarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/otitismedia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ovariancancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ovariancysts.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pancreaticcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pancreatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/parkinson.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pcos.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pepticulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/periodontitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/peripheralartery.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pharyngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pid.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pneumonia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/polio.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/pregnancy.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/premature-ejaculation.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/prostate.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/prostate-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/prostatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/psoriasis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/rabies.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/retinoblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/rheumatoid-arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ringworm.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/rosacea.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/rotavirus.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/rubella.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/salmonella.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/scabies.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/schizzophrenia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/sciatica.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/scoliosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/shingles.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/sicklecell.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/sinusitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/spinabifida.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/stomachcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/strokerecovery.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/sypilis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/testicularcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/tetanus.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/thalasemia.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/thyroidcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/tinnitus.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/tonsillitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/toothdecay.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/trichomoniasis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/tuberculosis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/type2diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/typhoidfever.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/ulcerative-colitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/urinary-tract-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/uterine-polyps.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/vaginitis.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/varicose-veins.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/vertigo.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/vitiligo.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/warts.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/weight.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/whooping-cough.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/wilms-tumor.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/women-health-seo-package/content/prevention-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/yeast-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/yellow-fever.md
+- https://kedicare.netlify.app/health-seo-package/content/prevention-guides/zika-virus.md
+
+
+
+
+## health-seo-package/content/symptom-guides 
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/acidreflux.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/acne.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/addisons.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/adhd.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/alopecia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/alzheimmers.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/anemia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/anxiety.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/appendicitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/arrhythmia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/asthma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/athletesfoot.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/autism.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/backpain.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/bacterialvaginosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/bipolardisorder.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/bladdercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/botulism.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/braintumor.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/breastcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/breastcysts.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/campylobacter.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/candida.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/capaltunnel.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cataracts.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/celiacdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cerebralpalsy.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cervicaldysplasia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chickenpox.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chikungunya.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/childrenhealth-seo-package/content/symptom-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chlamydia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cholera.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chronicbronchitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chronicfatique.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chronickidneydisease.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/chronicpain.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/coldscores.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/colorectalcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/conjunctivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/constipation.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/coronaryartery.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/covid-19recovery.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/crohnsdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cushings.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/cysticfibrosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/dandruff.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/dementia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/denguefever.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/depression.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/detox.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/diabeticretinipathy.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/diarrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/diphtheria.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/downsyndrome.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/dryeye.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/dvt.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/dysentery.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/e.coli.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ebola.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/eczema.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/endomentriosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/epilepsy.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/erectile-dysfunction.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/esophageal-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ewing-sarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/fatty-liver-disease.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/female-infertility.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/fibroid.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/fibromyalgia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/food-poisoning.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/gallstones.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/gastritis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/gingivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/glaucoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/glioblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/goiter.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/gonorrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/gout.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hair-loss.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/halitosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/heart-failure.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hemophilia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hemorrhoids.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hepatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hernia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/herniated-disc.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/herpes.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/high-cholesterol.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hiv-aids.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hormonal-balance.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hpv.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hypertension.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hyportension.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/hypothroidism.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/IBS.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/immune.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/insomia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/jock-itch.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/kidney.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/kidneycancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/kidneyfailure.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/kidneystones.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/kyphosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/laryngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lassafever.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/leukemia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lice.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/listeria.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/livercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/livercirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lowspermcount.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lungcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lupus.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lymedisease.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/lymphoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/masculardegeneration.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/malaria.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/malevitality.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/measles.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/melanoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/memoryloss.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/menopause.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/menstrualcramps.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/mentalhealth-seo-package/content/symptom-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/migraines.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/multiplemyeloma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/mumps.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/musculardystrophy.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/nailfungus.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/neuroblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/non-hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/norovirus.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/nutrition.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/obesity.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/osteoarthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/osteoporosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/osteosarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/otitismedia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ovariancancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ovariancysts.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pancreaticcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pancreatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/parkinson.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pcos.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pepticulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/periodontitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/peripheralartery.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pharyngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pid.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pneumonia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/polio.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/pregnancy.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/premature-ejaculation.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/prostate.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/prostate-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/prostatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/psoriasis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/rabies.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/retinoblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/rheumatoid-arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ringworm.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/rosacea.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/rotavirus.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/rubella.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/salmonella.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/scabies.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/schizzophrenia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/sciatica.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/scoliosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/shingles.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/sicklecell.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/sinusitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/spinabifida.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/stomachcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/strokerecovery.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/sypilis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/testicularcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/tetanus.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/thalasemia.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/thyroidcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/tinnitus.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/tonsillitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/toothdecay.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/trichomoniasis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/tuberculosis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/type2diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/typhoidfever.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/ulcerative-colitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/urinary-tract-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/uterine-polyps.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/vaginitis.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/varicose-veins.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/vertigo.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/vitiligo.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/warts.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/weight.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/whooping-cough.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/wilms-tumor.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/women-health-seo-package/content/symptom-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/yeast-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/yellow-fever.md
+- https://kedicare.netlify.app/health-seo-package/content/symptom-guides/zika-virus.md
+
+
+
+## health-seo-package/content/treatment-guides 
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/acidreflux.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/acne.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/addisons.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/adhd.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/alopecia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/alzheimmers.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/anemia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/anxiety.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/appendicitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/arrhythmia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/asthma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/athletesfoot.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/autism.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/backpain.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/bacterialvaginosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/bipolardisorder.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/bladdercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/botulism.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/braintumor.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/breastcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/breastcysts.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/campylobacter.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/candida.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/capaltunnel.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cataracts.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/celiacdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cerebralpalsy.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cervicaldysplasia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chickenpox.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chikungunya.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/childrenhealth-seo-package/content/treatment-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chlamydia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cholera.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chronicbronchitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chronicfatique.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chronickidneydisease.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/chronicpain.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/coldscores.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/colorectalcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/conjunctivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/constipation.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/coronaryartery.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/covid-19recovery.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/crohnsdisease.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cushings.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/cysticfibrosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/dandruff.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/dementia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/denguefever.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/depression.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/detox.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/diabeticretinipathy.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/diarrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/diphtheria.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/downsyndrome.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/dryeye.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/dvt.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/dysentery.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/e.coli.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ebola.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/eczema.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/endomentriosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/epilepsy.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/erectile-dysfunction.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/esophageal-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ewing-sarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/fatty-liver-disease.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/female-infertility.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/fibroid.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/fibromyalgia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/food-poisoning.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/gallstones.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/gastritis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/gingivitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/glaucoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/glioblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/goiter.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/gonorrhea.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/gout.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hair-loss.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/halitosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/heart-failure.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hemophilia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hemorrhoids.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hepatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hernia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/herniated-disc.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/herpes.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/high-cholesterol.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hiv-aids.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hormonal-balance.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hpv.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hypertension.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hyportension.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/hypothroidism.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/IBS.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/immune.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/insomia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/jock-itch.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/kidney.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/kidneycancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/kidneyfailure.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/kidneystones.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/kyphosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/laryngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lassafever.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/leukemia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lice.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/listeria.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/livercancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/livercirrhosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lowspermcount.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lungcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lupus.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lymedisease.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/lymphoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/masculardegeneration.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/malaria.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/malevitality.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/measles.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/melanoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/memoryloss.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/menopause.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/menstrualcramps.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/mentalhealth-seo-package/content/treatment-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/migraines.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/multiplemyeloma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/mumps.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/musculardystrophy.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/nailfungus.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/neuroblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/non-hodgkins.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/norovirus.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/nutrition.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/obesity.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/osteoarthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/osteoporosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/osteosarcoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/otitismedia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ovariancancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ovariancysts.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pancreaticcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pancreatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/parkinson.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pcos.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pepticulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/periodontitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/peripheralartery.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pharyngitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pid.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pneumonia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/polio.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/pregnancy.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/premature-ejaculation.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/prostate.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/prostate-cancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/prostatitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/psoriasis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/rabies.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/retinoblastoma.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/rheumatoid-arthritis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ringworm.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/rosacea.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/rotavirus.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/rubella.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/salmonella.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/scabies.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/schizzophrenia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/sciatica.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/scoliosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/shingles.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/sicklecell.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/sinusitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/spinabifida.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/stomachcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/strokerecovery.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/sypilis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/testicularcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/tetanus.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/thalasemia.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/thyroidcancer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/tinnitus.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/tonsillitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/toothdecay.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/trichomoniasis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/tuberculosis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/type2diabetes.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/typhoidfever.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ulcer.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/ulcerative-colitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/urinary-tract-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/uterine-polyps.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/vaginitis.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/varicose-veins.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/vertigo.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/vitiligo.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/warts.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/weight.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/whooping-cough.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/wilms-tumor.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/women-health-seo-package/content/treatment-guides.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/yeast-infection.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/yellow-fever.md
+- https://kedicare.netlify.app/health-seo-package/content/treatment-guides/zika-virus.md

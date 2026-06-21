@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/admin.html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aura Herbs | Command Center & Clinical Administration</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="images/x-icon">
@@ -12,7 +21,7 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/kedi-optimise.css">
     <link rel="stylesheet" href="assets/css/responsive.css"/>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     
     <style>
@@ -81,6 +90,17 @@
     </style>
     <!-- Firebase Integration -->
     <script type="module" src="assets/js/firebase-init.js"></script>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body class="overflow-x-hidden dashboard-gradient">
 
@@ -205,7 +225,7 @@
                 <div class="header__middle ul_li_between">
                     <div class="header__logo">
                         <a href="kedi.html">
-                            <img src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
+                            <img loading="lazy" src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
                         </a>
                     </div>
                     <div class="header-date">
@@ -221,7 +241,7 @@
                     </div>
                     <div class="add">
                         <a href="shop.html">
-                            <img src="assets/img/product/beaty soap.jpeg" alt="Kedi Soap" style="max-height: 80px; width: auto; object-fit: contain;">
+                            <img loading="lazy" src="assets/img/product/beaty soap.jpeg" alt="Kedi Soap" style="max-height: 80px; width: auto; object-fit: contain;">
                         </a>
                     </div>
                     <div class="d-none d-lg-block">
@@ -229,7 +249,7 @@
                             <div class="header__language style-2 mr-25">
                                 <ul>
                                     <li>
-                                        <a href="#!" class="lang-btn"><img src="assets/img/icon/usd_flag.png" alt=""> English <i class="far fa-chevron-down"></i></a>
+                                        <a href="#!" class="lang-btn"><img loading="lazy" src="assets/img/icon/usd_flag.png" alt=""> English <i class="far fa-chevron-down"></i></a>
                                         <ul class="lang_sub_list">
                                             <li><a href="#">English</a></li>
                                             <li><a href="#">Yoruba</a></li>
@@ -253,11 +273,11 @@
                     <div class="header__main ul_li">
                         <div class="header__logo">
                             <a href="kedi.html">
-                                <img src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
+                                <img loading="lazy" src="assets/img/logo/logo.svg" alt="Kedi Healthcare">
                             </a>
                         </div>
                         <div class="header__category">
-                            <a class="header__category-nav" href="#!"><img class="bar" src="assets/img/icon/bar.svg" alt="">Browse Categories<i class="fas fa-chevron-down"></i></a>
+                            <a class="header__category-nav" href="#!"><img loading="lazy" class="bar" src="assets/img/icon/bar.svg" alt="">Browse Categories<i class="fas fa-chevron-down"></i></a>
                         </div>
                         <div class="hamburger_menu d-lg-none">
                             <a href="javascript:void(0);" class="active">
@@ -277,7 +297,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="kedi.html">
-                                                                    <img src="assets/img/demo/demo-1.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-1.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 1</h3>
@@ -285,7 +305,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="home-2.html">
-                                                                    <img src="assets/img/demo/demo-2.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-2.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 2</h3>
@@ -293,7 +313,7 @@
                                                         <div class="col col-md-3">
                                                             <div class="demo-pic">
                                                                 <a href="home-3.html">
-                                                                    <img src="assets/img/demo/demo-3.jpg" alt="">
+                                                                    <img loading="lazy" src="assets/img/demo/demo-3.jpg" alt="">
                                                                 </a>
                                                             </div>
                                                             <h3>#Home Demo 3</h3>
@@ -345,17 +365,17 @@
                         <div class="header__main-right ul_li">
                             <div class="header__icons ul_li mr-15">
                                 <div class="icon">
-                                    <a href="account.html"><img src="assets/img/icon/user.svg" alt="Account"></a>
+                                    <a href="account.html"><img loading="lazy" src="assets/img/icon/user.svg" alt="Account"></a>
                                 </div>
                                 <div class="icon wishlist-icon">
                                     <a href="#!" aria-label="Wishlist">
-                                        <img src="assets/img/icon/heart.svg" alt="Wishlist">
+                                        <img loading="lazy" src="assets/img/icon/heart.svg" alt="Wishlist">
                                         <span class="wish-count">0</span>
                                     </a>
                                 </div>
                                 <div class="icon cart-icon">
                                     <a href="cart.html" aria-label="Cart">
-                                        <img src="assets/img/icon/cart.svg" alt="Cart">
+                                        <img loading="lazy" src="assets/img/icon/cart.svg" alt="Cart">
                                         <span class="cart-count">0</span>
                                     </a>
                                 </div>
@@ -715,11 +735,11 @@
     </div>
 
     <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <!-- Scripts -->
     <script src="assets/js/jquery-3.5.1.min.js"></script>
-    <script src="assets/js/currency-manager.js"></script>
-    <script src="assets/js/countdown.js"></script>
+    <script defer src="assets/js/currency-manager.js"></script>
+    <script defer src="assets/js/countdown.js"></script>
     <script>
         // Admin Portal Real-time Updates
         document.addEventListener('DOMContentLoaded', () => {
@@ -1457,7 +1477,26 @@
             };
         });
     </script>
-<script src="assets/js/auth.js"></script></body>
+<script defer src="assets/js/auth.js"></script>
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
+</body>
 </html>
 
 

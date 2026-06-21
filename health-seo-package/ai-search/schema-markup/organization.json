@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "kedicare",
+  "url": "https://kedicare.netlify.app",
+  "logo": "https://kedicare.netlify.app/assets/img/logo/logo.svg",
+  "sameAs": [
+    "https://www.facebook.com/aura.cares",
+    "https://twitter.com/auraherbs",
+    "https://www.instagram.com/aura.cares"
+  ]
+}

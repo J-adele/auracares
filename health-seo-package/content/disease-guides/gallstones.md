@@ -1,0 +1,13 @@
+# ﻿# Kidney Stones - Disease Guide
+
+## Overview
+*Placeholder description for Kidney Stones.*
+
+## Causes
+Causes of ﻿# Kidney Stones may include genetic factors, lifestyle, and environmental exposure.
+
+## Diagnosis
+Diagnosis is established via clinical examination and laboratory findings.
+
+## References
+- Placeholder reference.

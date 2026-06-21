@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+    <!-- ⚡ Performance Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
+    <!-- PWA / SEO -->
+    <meta name="theme-color" content="#4d231c">
+    <link rel="canonical" href="https://kedicare.netlify.app/notifications.html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kedi Healthcare â€” Notification Centre</title>
 <link rel="shortcut icon" href="assets/img/favicon.png">
@@ -84,12 +93,23 @@ body{font-family:'Segoe UI',sans-serif;background:var(--bg);color:var(--text)}
 
     <meta property="og:title" content="Kedi Healthcare â€” Notification Centre">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.auraherbs.netlify.app/notifications.html">
+    <meta property="og:url" content="https://kedicare.netlify.app/notifications.html">
     <meta property="og:site_name" content="Kedi Healthcare (Kedi-J)">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="robots" content="index, follow">
                 <!-- Firebase Integration -->
     <script type="module" src="assets/js/firebase-init.js"></script>
+
+    <style id="kedi-perf-critical">
+      /* Critical above-fold paint optimisation */
+      img{content-visibility:auto}
+      .section-below-fold{content-visibility:auto;contain-intrinsic-size:0 400px}
+      *{-webkit-tap-highlight-color:transparent}
+      a,button{touch-action:manipulation}
+      /* Skeleton shimmer for lazy sections */
+      .lazy-section{opacity:0;transform:translateY(20px);transition:opacity .4s ease,transform .4s ease}
+      .lazy-section.visible{opacity:1;transform:none}
+    </style>
 </head>
 <body>
 
@@ -433,8 +453,27 @@ async function enablePush() {
         });
     </script>
 
-    <script src="assets/js/cart.js"></script>
-<script src="assets/js/auth.js"></script><script src="assets/js/currency-manager.js"></script></body>
+    <script defer src="assets/js/cart.js"></script>
+<script defer src="assets/js/auth.js"></script><script defer src="assets/js/currency-manager.js"></script>
+    <script id="kedi-lazy-observer">
+      (function(){
+        if(!('IntersectionObserver' in window))return;
+        var els=document.querySelectorAll('.section-below-fold,.lazy-section');
+        var io=new IntersectionObserver(function(entries){
+          entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});
+        },{threshold:0.1,rootMargin:'0px 0px -50px 0px'});
+        els.forEach(function(el){io.observe(el);});
+      })();
+    </script>
+
+    <script id="kedi-sw-register">
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('/service-worker.js').catch(function(){});
+        });
+      }
+    </script>
+</body>
 </html>
 
 

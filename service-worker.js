@@ -1,12 +1,20 @@
 /* ============================================================
-   Kedi Healthcare — Service Worker
+   Kedi Healthcare — Service Worker  (kedicare.netlify.app)
    Handles: Background Push Notifications, Offline Cache
+   Updated: 2026
    ============================================================ */
 
-const CACHE_NAME = 'kedi-v2';
+const CACHE_NAME = 'kedicare-v2';
 const OFFLINE_ASSETS = [
-  '/', '/kedi.html', '/home-3.html', '/assets/img/logo/logo.svg',
-  '/assets/css/main.css', '/assets/css/kedi-optimise.css'
+  '/',
+  '/kedi.html',
+  '/home-3.html',
+  '/ai-doctor.html',
+  '/assets/img/logo/logo.svg',
+  '/assets/css/main.css',
+  '/assets/css/kedi-optimise.css',
+  '/assets/img/favicon.png',
+  '/offline.html'
 ];
 
 /* ── Install: pre-cache core assets ───────────────────── */

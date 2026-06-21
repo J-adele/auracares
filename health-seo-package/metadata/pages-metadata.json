@@ -1,0 +1,102 @@
+{
+  "index.html": {
+    "title": "Aura Cares - Kedicare",
+    "description": "Access verified medical-grade herbal treatment protocols. Optimized for maximum therapeutic efficacy.",
+    "url": "https://kedicare.netlify.app/index.html"
+  },
+  "about.html": {
+    "title": "Our Clinical Mission | Aura Herbs - Global Health Intelligence",
+    "description": "Discover the mission behind Aura Herbs Clinical Global. We are bridging the gap between ancient herbal wisdom and decentralized clinical intelligence.",
+    "url": "https://kedicare.netlify.app/about.html"
+  },
+  "contact.html": {
+    "title": "Clinical Support Desk | Aura Herbs - Verified Health Intelligence",
+    "description": "Connect with the Aura Herbs clinical support desk for protocol guidance, AI diagnostic assistance, and ecosystem inquiries.",
+    "url": "https://kedicare.netlify.app/contact.html"
+  },
+  "shop.html": {
+    "title": "Clinical Protocols Catalog | Aura Herbs",
+    "description": "Browse verified clinical herbal protocols. Reishi, Diawell, VIP Massage Chair and 40+ more &mdash; priced in &#8358; NGN.",
+    "url": "https://kedicare.netlify.app/shop.html"
+  },
+  "cart.html": {
+    "title": "Clinical Cart | Aura Herbs - Global Health Intelligence",
+    "description": "Review your selected clinical protocols and prepare for secure settlement in Nigerian Naira (&#8358;). Aura Herbs Clinical Global.",
+    "url": "https://kedicare.netlify.app/cart.html"
+  },
+  "checkout.html": {
+    "title": "Secure Settlement | Aura Herbs - Global Health Intelligence",
+    "description": "Complete your clinical protocol acquisition through our secure Nigerian Naira (&#8358;) settlement gateway. Aura Herbs Clinical Global.",
+    "url": "https://kedicare.netlify.app/checkout.html"
+  },
+  "checkout-v2.html": {
+    "title": "Aura Herbs â€” Secure Checkout",
+    "description": "Pay securely with Card, Bank Transfer, Pi Network, or Crypto.",
+    "url": "https://kedicare.netlify.app/checkout-v2.html"
+  },
+  "account.html": {
+    "title": "Kedi Healthcare - Clinical Dashboard",
+    "description": "",
+    "url": "https://kedicare.netlify.app/account.html"
+  },
+  "admin.html": {
+    "title": "Aura Herbs | Command Center & Clinical Administration",
+    "description": "Aura Cares provides reliable herbal medicine protocols, symptom checking, and wellness calculators.",
+    "url": "https://kedicare.netlify.app/admin.html"
+  },
+  "ai-doctor.html": {
+    "title": "Aura AI Health Centre — 50 Clinical Diagnostic Tools | Aura Herbs",
+    "description": "Free AI-powered health diagnostics. 50 clinical-grade tools covering cardiovascular, hormonal, mental, digestive, metabolic, vision, immunity, and more — all in one place.",
+    "url": "https://kedicare.netlify.app/ai-doctor.html"
+  },
+  "franchise.html": {
+    "title": "Franchise Opportunity | Aura Herbs Clinical Healthcare",
+    "description": "Join the Aura Herbs clinical franchise network. Build a profitable healthcare business with Kedi-J protocols, full training, and digital health tools.",
+    "url": "https://kedicare.netlify.app/franchise.html"
+  },
+  "order-tracker.html": {
+    "title": "Kedi Healthcare - Live Order Tracker",
+    "description": "Aura Cares provides reliable herbal medicine protocols, symptom checking, and wellness calculators.",
+    "url": "https://kedicare.netlify.app/order-tracker.html"
+  },
+  "quiz.html": {
+    "title": "Aura Herbs Clinical Assessment | AI Health Quiz & Protocol Generator",
+    "description": "Aura Herbs Clinical delivers clinical AI-powered health diagnostics, product intelligence, and herbal protocol recommendations across nutrition, vitality, pharma, and wellness.",
+    "url": "https://kedicare.netlify.app/quiz.html"
+  },
+  "roi-calculator.html": {
+    "title": "Kedi Health ROI Calculator â€” What Could You Save?",
+    "description": "Calculate how much you could save on clinic visits, drugs, and hospital bills by switching to Kedi herbal healthcare protocols. Free instant estimate.",
+    "url": "https://kedicare.netlify.app/roi-calculator.html"
+  },
+  "health-challenges.html": {
+    "title": "Clinical Encyclopedia – Kedi Healthcare | Health Challenges & Protocols",
+    "description": "Search 200+ health conditions and discover the clinically mapped Kedi Healthcare protocol for each. From diabetes to hypertension — find your solution.",
+    "url": "https://kedicare.netlify.app/health-challenges.html"
+  },
+  "token.html": {
+    "title": "Unlock Medical Tools – Kedi Health",
+    "description": "Aura Cares provides reliable herbal medicine protocols, symptom checking, and wellness calculators.",
+    "url": "https://kedicare.netlify.app/token.html"
+  },
+  "blog.html": {
+    "title": "Aura Herbs - Clinical Intelligence & Health Research",
+    "description": "Aura Herbs Clinical Global delivers AI-powered health diagnostics, clinical research, and verified herbal protocols for advanced wellness.",
+    "url": "https://kedicare.netlify.app/blog.html"
+  },
+  "blog-immune-system.html": {
+    "title": "Aura Herbs - How to Build an Unbreakable Immune System",
+    "description": "",
+    "url": "https://kedicare.netlify.app/blog-immune-system.html"
+  },
+  "blog-male-vitality.html": {
+    "title": "Aura Herbs - Restoring Peak Male Vitality and Stamina",
+    "description": "",
+    "url": "https://kedicare.netlify.app/blog-male-vitality.html"
+  },
+  "blog-metabolic-health.html": {
+    "title": "Aura Herbs | AI Health News, Smart Product Recommendations & Quiz",
+    "description": "",
+    "url": "https://kedicare.netlify.app/blog-metabolic-health.html"
+  }
+}

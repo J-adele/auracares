@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://kedicare.netlify.app/shop.html</loc>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Reishi.png</image:loc>
+      <image:title>Reishi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Revive.png</image:loc>
+      <image:title>Revive</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Cordy Active.png</image:loc>
+      <image:title>Cordy Active</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Golden-Hypha.png</image:loc>
+      <image:title>Golden-Hypha</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Diawell.png</image:loc>
+      <image:title>Diawell</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Golden six.png</image:loc>
+      <image:title>Golden six</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/Gastrifort.png</image:loc>
+      <image:title>Gastrifort</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/CONSTILEASE.png</image:loc>
+      <image:title>CONSTILEASE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kedicare.netlify.app/assets/img/product/tooth-paste.jpg</image:loc>
+      <image:title>tooth-paste</image:title>
+    </image:image>
+  </url>
+</urlset>
