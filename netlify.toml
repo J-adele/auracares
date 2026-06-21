@@ -1,4 +1,5 @@
 [build]
+<<<<<<< HEAD
   command = "npm run build"
   publish = "."
   # Treat the "api" directory as the folder for Netlify serverless functions.
@@ -30,3 +31,7 @@
   for = "/seo-q/*"
   [headers.values]
     Cache-Control = "s-maxage=86400"
+=======
+  command   = ""
+  publish   = "."
+>>>>>>> 7afa76d918f450871da35362c3e45c9aa02f80e7
