@@ -13,7 +13,7 @@
     <link rel="dns-prefetch" href="https://generativelanguage.googleapis.com">
 
      <!-- Google/Bing Search Console / SEO -->
-    
+    <meta name="google-site-verification" content="0xED4vrAgHplHy56FpLddgZCxXIC-wkFwvhZdt0gCvs" />
     
     <!-- PWA / SEO -->
     <meta name="theme-color" content="#4d231c">
@@ -1524,7 +1524,37 @@
                         animation: fadeInOutCures 3s infinite ease-in-out;
                         display: inline;
                     }
-                </style>
+                    /* Did You Know Section */
+    .did-you-know-section {
+        background: linear-gradient(135deg, #0f172a, #1e293b);
+        border-radius: 20px;
+        padding: 30px 20px;
+        margin: 30px 0;
+        color: #fff;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 10px 25px rgba(16, 185, 129, 0.15);
+    }
+    .did-you-know-text {
+    font-size: 1.2rem;
+    font-weight: 700;
+    animation: fadeFact 8s infinite ease-in-out;
+    opacity: 0;
+}
+    .did-you-know-text span {
+        display: none;
+    }
+    .did-you-know-text span.active {
+        display: inline;
+    }
+    @keyframes fadeFact {
+    0% { opacity: 0; }
+    12.5% { opacity: 1; }
+    87.5% { opacity: 1; }
+    100% { opacity: 0; }
+}
+</style>
                 <div class="container mxw_1360">
                     <!-- Dynamic Clinical Healing Ticker Banner -->
                     <div class="row mb-4">
@@ -1550,7 +1580,31 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row g-4 align-items-stretch">
+<div class="did-you-know-section">
+  <div class="did-you-know-content">
+    <h2 class="did-you-know-text"></h2>
+  </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const facts = [
+    "💡 Did you know? 🌿 Our herbal blends support vision health! 👀✨",
+    "💡 Did you know? 🧘‍♀️ Regular massages improve circulation! ❤️‍🩹",
+    "💡 Did you know? 🍏 A balanced diet boosts immunity! 🛡️",
+    "💡 Did you know? 🌞 Sunlight helps regulate sleep cycles! 🌙",
+    "💡 Did you know? 🌊 Hydration improves skin elasticity! 💧",
+    "💡 Did you know? 🧴 Natural oils can reduce inflammation! 🌱"
+  ];
+  let idx = 0;
+  const textEl = document.querySelector('.did-you-know-text');
+  textEl.textContent = facts[0];
+  setInterval(() => {
+    idx = (idx + 1) % facts.length;
+    textEl.textContent = facts[idx];
+  }, 8000);
+});
+</script>
+<div class="row g-4 align-items-stretch">
                         <!-- VIP Massage Chair Banner -->
                         <div class="col-xl-4 col-lg-5 col-md-12">
                             <div class="featured-chair-card">
